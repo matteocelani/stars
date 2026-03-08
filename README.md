@@ -4,133 +4,102 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **67** starred repositories across **19** categories — last updated on **March 08, 2026 at 12:46 UTC**
+> **67** starred repositories across **16** categories — last updated on **March 08, 2026 at 13:01 UTC**
 
 ---
 
 ## Table of Contents
 
-- [CLI Tools & Utilities](#cli-tools-utilities) (2)
-- [Data Science & Analytics](#data-science-analytics) (1)
-- [Databases & ORMs](#databases-orms) (1)
-- [DevOps & Infrastructure](#devops-infrastructure) (3)
-- [Frontend Frameworks & Libraries](#frontend-frameworks-libraries) (15)
-- [Game Development](#game-development) (1)
-- [Language: Batchfile](#language-batchfile) (1)
-- [Language: C++](#language-c++) (1)
-- [Language: JavaScript](#language-javascript) (5)
-- [Language: Python](#language-python) (7)
-- [Language: Solidity](#language-solidity) (2)
-- [Language: Swift](#language-swift) (1)
-- [Language: TypeScript](#language-typescript) (6)
-- [Language: Unknown](#language-unknown) (2)
-- [Machine Learning & AI](#machine-learning-ai) (3)
-- [Mobile Development](#mobile-development) (3)
+- [CLI Tools & Utilities](#cli-tools-utilities) (1)
+- [Data Science & Analytics](#data-science-analytics) (2)
+- [Databases & Data Layer](#databases-data-layer) (1)
+- [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (1)
+- [Frontend & UI Frameworks](#frontend-ui-frameworks) (11)
+- [Game Development & Maps](#game-development-maps) (2)
+- [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
+- [Internationalization & Localization](#internationalization-localization) (1)
+- [Languages & Compilers](#languages-compilers) (3)
+- [Machine Learning & AI](#machine-learning-ai) (11)
+- [Mobile & Desktop Development](#mobile-desktop-development) (6)
 - [Productivity & Notes](#productivity-notes) (1)
-- [Security & Cryptography](#security-cryptography) (2)
-- [Web3 & Blockchain](#web3-blockchain) (10)
+- [SEO & Marketing](#seo-marketing) (1)
+- [Security & Cryptography](#security-cryptography) (3)
+- [Self-Hosting & Home Server](#self-hosting-home-server) (3)
+- [Web3, Blockchain & Crypto](#web3,-blockchain-crypto) (18)
 
 ---
 
 ## CLI Tools & Utilities
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks
-- [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) — Color schemes for default macOS Terminal.app
 
 ## Data Science & Analytics
 
+- [recharts/recharts](https://github.com/recharts/recharts) — Redefined chart library built with React and D3
 - [apache/echarts](https://github.com/apache/echarts) — Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
-## Databases & ORMs
+## Databases & Data Layer
 
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 
-## DevOps & Infrastructure
+## DevOps, Cloud & Infrastructure
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — :zap: Dynamically generated stats for your github readmes
 
-## Frontend Frameworks & Libraries
+## Frontend & UI Frameworks
 
-- [family/connectkit](https://github.com/family/connectkit) — Connecting a wallet, made simple.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [lingui/js-lingui](https://github.com/lingui/js-lingui) — 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) — Authentication for the Web.
 - [vercel/swr](https://github.com/vercel/swr) — React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [novuhq/novu](https://github.com/novuhq/novu) — The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [recharts/recharts](https://github.com/recharts/recharts) — Redefined chart library built with React and D3
+- [onesine/react-tailwindcss-datepicker](https://github.com/onesine/react-tailwindcss-datepicker) — Modern date range picker component for React using Tailwind 3 and dayjs. Alternative to Litepie Datepicker.
 - [motiondivision/motion](https://github.com/motiondivision/motion) — A modern animation library for React and JavaScript
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) — React components for interactive math
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) — Curated List of React Components & Libraries.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) — The best way to connect a wallet 🌈 🧰
 - [vercel/next.js](https://github.com/vercel/next.js) — The React Framework
+- [yinkakun/gatsby-starter-glass](https://github.com/yinkakun/gatsby-starter-glass) — A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI
 
-## Game Development
-
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) — Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-
-## Language: Batchfile
-
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
-## Language: C++
-
-- [ml-explore/mlx](https://github.com/ml-explore/mlx) — MLX: An array framework for Apple silicon
-
-## Language: JavaScript
+## Game Development & Maps
 
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) — 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) — Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+
+## Guides, Tutorials & Resources
+
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) — Curated coding interview preparation materials for busy software engineers
+- [immuni-app/immuni-documentation](https://github.com/immuni-app/immuni-documentation) — Repo for Immuni's documentation.
+
+## Internationalization & Localization
+
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) — 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
+
+## Languages & Compilers
+
 - [donn/nudelta](https://github.com/donn/nudelta) — Open source NuPhy Console alternative
 - [AlexzanderFlores/Worn-Off-Keys-Discord-Js](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js) — No description provided.
-- [yinkakun/gatsby-starter-glass](https://github.com/yinkakun/gatsby-starter-glass) — A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI
 - [FrancescoCerio/WhereMI](https://github.com/FrancescoCerio/WhereMI) — Progetto per il corso di Tecnologie Web 2019/2020 Unibo
-
-## Language: Python
-
-- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) — Run LLMs with MLX
-- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — A framework for few-shot evaluation of language models.
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) — No description provided.
-- [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) — Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
-- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) — The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-
-## Language: Solidity
-
-- [jspruance/aave-flash-loan-tutorial](https://github.com/jspruance/aave-flash-loan-tutorial) — Create an Aave Flash Loan arbitrage smart contract from scratch in this comprehensive flash loan tutorial from Block Explorer.
-- [scalingparrots/scalingparrots-contracts](https://github.com/scalingparrots/scalingparrots-contracts) — Reusable Smart Contract library for Solidity
-
-## Language: Swift
-
-- [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-
-## Language: TypeScript
-
-- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) — A free + OSS logo generator powered by Flux on Together AI
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world
-- [joshstevens19/ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) — Ability to call many ethereum constant function calls in 1 JSONRPC request
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) — Curated coding interview preparation materials for busy software engineers
-- [onesine/react-tailwindcss-datepicker](https://github.com/onesine/react-tailwindcss-datepicker) — Modern date range picker component for React using Tailwind 3 and dayjs. Alternative to Litepie Datepicker.
-- [joshstevens19/uniswap-dapp-integration-monorepo](https://github.com/joshstevens19/uniswap-dapp-integration-monorepo) — A monorepo which holds Angular, vue and react libraries for integrating uniswap into your dApp with a simple config.
-
-## Language: Unknown
-
-- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) — a truly censorship-resistant alternative to Twitter that has a chance of working
-- [immuni-app/immuni-documentation](https://github.com/immuni-app/immuni-documentation) — Repo for Immuni's documentation.
 
 ## Machine Learning & AI
 
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) — Run LLMs with MLX
+- [ml-explore/mlx](https://github.com/ml-explore/mlx) — MLX: An array framework for Apple silicon
+- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — A framework for few-shot evaluation of language models.
+- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) — A free + OSS logo generator powered by Flux on Together AI
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) — No description provided.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) — A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [continuedev/continue](https://github.com/continuedev/continue) — ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) — Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
 - [dabit3/gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) — reference architecture for building a travel application with GPT3
 
-## Mobile Development
+## Mobile & Desktop Development
 
+- [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [localsend/localsend](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop
+- [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) — Color schemes for default macOS Terminal.app
 - [RaffiKian/RKCalendar](https://github.com/RaffiKian/RKCalendar) — SwiftUI Simple Calendar / Date Picker for iOS
 - [AppPear/ChartView](https://github.com/AppPear/ChartView) — ChartView made in SwiftUI
 
@@ -138,21 +107,40 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 - [remarkjs/remark](https://github.com/remarkjs/remark) — markdown processor powered by plugins part of the @unifiedjs collective
 
+## SEO & Marketing
+
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
+
 ## Security & Cryptography
 
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) — Find, verify, and analyze leaked credentials
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) — OpenZeppelin Contracts is a library for secure smart contract development.
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) — Authentication for the Web.
+- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) — The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 
-## Web3 & Blockchain
+## Self-Hosting & Home Server
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+
+## Web3, Blockchain & Crypto
+
+- [family/connectkit](https://github.com/family/connectkit) — Connecting a wallet, made simple.
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) — Slither Detectors by Pessimistic.io
+- [joshstevens19/ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) — Ability to call many ethereum constant function calls in 1 JSONRPC request
 - [wevm/viem](https://github.com/wevm/viem) — TypeScript Interface for Ethereum
 - [crytic/slither](https://github.com/crytic/slither) — Static Analyzer for Solidity and Vyper
 - [halon176/h-crypto-price-bot](https://github.com/halon176/h-crypto-price-bot) — A python-based bot that fetches real-time cryptocurrency prices from Coingecko and presents them in an easy-to-understand format on Telegram.
 - [matteocelani/next-dApp](https://github.com/matteocelani/next-dApp) — Next.js dApp template with Tailwind CSS, built with Wagmi, TanStack Query, and RainbowKit, written in TypeScript
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) — a truly censorship-resistant alternative to Twitter that has a chance of working
 - [matteocelani/typescript-hardhat](https://github.com/matteocelani/typescript-hardhat) — 👷‍♀️ Hardhat TypeScript template for developing Solidity smart contracts
 - [agora-org/agora](https://github.com/agora-org/agora) — File server that accepts Lightning Network payments for downloads
+- [jspruance/aave-flash-loan-tutorial](https://github.com/jspruance/aave-flash-loan-tutorial) — Create an Aave Flash Loan arbitrage smart contract from scratch in this comprehensive flash loan tutorial from Block Explorer.
+- [scalingparrots/scalingparrots-contracts](https://github.com/scalingparrots/scalingparrots-contracts) — Reusable Smart Contract library for Solidity
 - [Uniswap/v3-periphery](https://github.com/Uniswap/v3-periphery) — 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v3
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) — OpenZeppelin Contracts is a library for secure smart contract development.
+- [joshstevens19/uniswap-dapp-integration-monorepo](https://github.com/joshstevens19/uniswap-dapp-integration-monorepo) — A monorepo which holds Angular, vue and react libraries for integrating uniswap into your dApp with a simple config.
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) — Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
+- [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) — The best way to connect a wallet 🌈 🧰
 - [protofire/solhint](https://github.com/protofire/solhint) — Solhint is an open-source project to provide a linting utility for Solidity code.
 

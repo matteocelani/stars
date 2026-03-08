@@ -1,4 +1,5 @@
 import os
+import re
 import requests
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -30,49 +31,155 @@ def get_starred_repos():
     return repos
 
 def categorize_repos(repos):
-    """Categorize repositories by topic keywords, falling back to primary language."""
+    """Categorize repositories using deep text analysis with scoring-based assignment.
+
+    Matches keywords against three sources per repo: topics, description, and
+    the repository name. Each repo is assigned to the category with the highest
+    cumulative keyword-match score. Repos that match no category are placed in
+    a consolidated "Other Projects" bucket with the primary language appended.
+    """
     categorized = defaultdict(list)
 
-    # Custom categories based on tags (topics)
+    # ------------------------------------------------------------------
+    # Expanded taxonomy — keywords are matched case-insensitively against
+    # topics (exact token match) AND description/repo-name (substring).
+    # ------------------------------------------------------------------
     type_keywords = {
-        "Frontend Frameworks & Libraries": ["react", "vue", "angular", "svelte", "js", "frontend", "css", "ui", "tailwind", "next", "nuxt", "solid", "preact", "components", "web-components", "html"],
-        "Backend Frameworks & Libraries": ["backend", "api", "server", "express", "django", "flask", "fastapi", "spring", "nest", "laravel", "ruby-on-rails", "graphql", "rest"],
-        "Databases & ORMs": ["database", "sql", "nosql", "postgresql", "mysql", "mongodb", "redis", "prisma", "orm", "sqlite", "graphql", "drizzle", "supabase", "firebase"],
-        "Machine Learning & AI": ["machine-learning", "ai", "deep-learning", "llm", "nlp", "computer-vision", "neural-network", "tensorflow", "pytorch", "keras", "scikit-learn", "openai", "huggingface", "generative-ai", "stable-diffusion"],
-        "Data Science & Analytics": ["data-science", "analytics", "pandas", "numpy", "jupyter", "visualization", "matplotlib", "seaborn", "dashboard", "d3", "streamlit"],
-        "DevOps & Infrastructure": ["devops", "docker", "kubernetes", "kubernetes-ingress", "terraform", "ansible", "ci-cd", "github-actions", "aws", "infrastructure", "cloud", "serverless", "deployment"],
-        "CLI Tools & Utilities": ["cli", "terminal", "command-line", "tool", "utility", "shell", "bash", "zsh", "tui", "dotfiles"],
-        "Security & Cryptography": ["security", "cryptography", "hacking", "pentesting", "authentication", "authorization", "oauth", "jwt", "malware", "cybersecurity"],
-        "Game Development": ["game-engine", "gamedev", "unity", "unreal-engine", "godot", "phaser", "pygame", "webgl", "threejs"],
-        "Mobile Development": ["mobile", "android", "ios", "react-native", "flutter", "swift", "kotlin", "capacitor", "ionic"],
-        "Web3 & Blockchain": ["web3", "blockchain", "crypto", "ethereum", "smart-contracts", "solidity", "bitcoin", "nft", "defi"],
-        "Testing & QA": ["testing", "qa", "jest", "cypress", "playwright", "selenium", "mocha", "vitest", "automation", "e2e"],
-        "Guides & Tutorials": ["awesome", "tutorial", "guide", "education", "learning", "course", "roadmap", "books", "resources", "interview"],
-        "Design & Graphics": ["design", "graphics", "ui-ux", "figma", "svg", "animation", "motion", "canvas"],
-        "Productivity & Notes": ["productivity", "notes", "markdown", "obsidian", "notion", "knowledge-base", "todo", "pkm"],
-        "Editors & IDEs": ["editor", "ide", "vim", "neovim", "emacs", "vscode", "plugins", "theme"],
-        "Languages & Compilers": ["programming-language", "compiler", "interpreter", "ast", "parser"]
+        "Web3, Blockchain & Crypto": [
+            "web3", "blockchain", "crypto", "ethereum", "solidity", "bitcoin",
+            "nft", "defi", "smart-contract", "smart-contracts", "hardhat",
+            "foundry", "wagmi", "viem", "rainbowkit", "connectkit", "aave",
+            "uniswap", "flash-loan", "dapp", "openzeppelin", "vyper",
+            "multicall", "nostr", "lightning-network", "token", "erc20",
+            "erc721", "solhint", "slither",
+        ],
+        "Machine Learning & AI": [
+            "machine-learning", "ai", "deep-learning", "llm", "nlp",
+            "computer-vision", "neural-network", "tensorflow", "pytorch",
+            "keras", "scikit-learn", "openai", "huggingface", "generative-ai",
+            "generative", "stable-diffusion", "deepseek", "claude", "gpt",
+            "mlx", "ollama", "langchain", "rag", "lm-evaluation",
+            "language-model", "anthropic", "gemini",
+        ],
+        "SEO & Marketing": [
+            "seo", "marketing", "growth", "social-media", "scheduling",
+        ],
+        "Data Science & Analytics": [
+            "data-science", "analytics", "pandas", "numpy", "jupyter",
+            "visualization", "matplotlib", "seaborn", "dashboard", "d3",
+            "streamlit", "echarts", "chart", "recharts", "plotly",
+        ],
+        "Frontend & UI Frameworks": [
+            "react", "vue", "angular", "svelte", "frontend", "css", "ui",
+            "tailwind", "next", "nuxt", "solid", "preact", "components",
+            "web-components", "html", "animation", "motion", "glassmorphism",
+            "datepicker", "heroui", "mafs", "nextui",
+        ],
+        "Backend & APIs": [
+            "backend", "api", "server", "express", "django", "flask",
+            "fastapi", "graphql", "rest", "nest", "laravel", "spring",
+            "ruby-on-rails", "microservices",
+        ],
+        "Databases & Data Layer": [
+            "database", "sql", "nosql", "postgresql", "mysql", "mongodb",
+            "redis", "prisma", "orm", "sqlite", "drizzle", "supabase",
+            "firebase",
+        ],
+        "DevOps, Cloud & Infrastructure": [
+            "devops", "docker", "kubernetes", "terraform", "ansible", "ci-cd",
+            "github-actions", "aws", "cloud", "serverless", "deployment",
+            "infrastructure", "monitoring", "observability",
+        ],
+        "Self-Hosting & Home Server": [
+            "self-hosted", "homelab", "home-server", "casaos", "umbrel",
+            "personal-cloud", "iptv", "media-server",
+        ],
+        "Security & Cryptography": [
+            "security", "cryptography", "hacking", "pentesting",
+            "authentication", "authorization", "oauth", "jwt", "malware",
+            "cybersecurity", "credentials", "trufflehog", "social-engineer",
+            "linting", "analyzer",
+        ],
+        "CLI Tools & Utilities": [
+            "cli", "terminal", "command-line", "utility", "shell",
+            "bash", "zsh", "tui", "dotfiles", "sherlock",
+        ],
+        "Mobile & Desktop Development": [
+            "mobile", "android", "ios", "react-native", "flutter", "swift",
+            "swiftui", "kotlin", "macos", "windows", "cross-platform",
+            "capacitor", "ionic", "apple-silicon", "localsend", "container",
+        ],
+        "Game Development & Maps": [
+            "game-engine", "gamedev", "unity", "unreal-engine", "godot",
+            "phaser", "pygame", "webgl", "threejs", "mapbox", "leaflet",
+            "maps", "geospatial",
+        ],
+        "Guides, Tutorials & Resources": [
+            "awesome", "tutorial", "guide", "education", "learning", "course",
+            "roadmap", "books", "resources", "interview", "handbook",
+            "documentation",
+        ],
+        "Internationalization & Localization": [
+            "i18n", "l10n", "internationalization", "localization", "lingui",
+            "translation",
+        ],
+        "Productivity & Notes": [
+            "productivity", "notes", "markdown", "obsidian", "notion",
+            "knowledge-base", "todo", "pkm", "remark",
+        ],
+        "Testing & QA": [
+            "testing", "qa", "jest", "cypress", "playwright", "selenium",
+            "mocha", "vitest", "automation", "e2e",
+        ],
+        "Editors & IDEs": [
+            "editor", "ide", "vim", "neovim", "emacs", "vscode", "plugins",
+            "theme",
+        ],
+        "Languages & Compilers": [
+            "programming-language", "compiler", "interpreter", "ast", "parser",
+        ],
     }
 
     for repo in repos:
-        name = repo['full_name']
-        url = repo['html_url']
-        desc = repo.get('description') or "No description provided."
-        topics = repo.get('topics', [])
-        language = repo.get('language') or "Unknown"
+        name = repo["full_name"]
+        url = repo["html_url"]
+        desc = repo.get("description") or "No description provided."
+        topics = [t.lower() for t in repo.get("topics", [])]
+        language = repo.get("language") or "Unknown"
 
-        # Try to categorize by topic keywords
-        assigned_category = None
+        # Build a lowercase search corpus from description and repo name
+        repo_name_lower = name.lower().split("/")[-1]   # e.g. "deepseek-v3"
+        desc_lower = desc.lower()
+
+        # --- Scoring: count keyword hits across topics, description, name ---
+        best_category = None
+        best_score = 0
+
         for category, keywords in type_keywords.items():
-            if any(keyword in topics for keyword in keywords):
-                assigned_category = category
-                break
+            score = 0
+            for kw in keywords:
+                # Exact match in topics list (highest confidence)
+                if kw in topics:
+                    score += 2
+                # Word-boundary match in description (avoids partial matches)
+                if re.search(r"\b" + re.escape(kw) + r"\b", desc_lower):
+                    score += 1
+                # Word-boundary match in repository name
+                if re.search(r"\b" + re.escape(kw) + r"\b", repo_name_lower):
+                    score += 1
 
-        # Fall back to the primary programming language
-        if not assigned_category:
-            assigned_category = f"Language: {language}"
+            if score >= best_score:
+                best_score = score
+                best_category = category
 
-        categorized[assigned_category].append(f"- [{name}]({url}) — {desc}")
+        # --- Assign to best category or fall back to "Other Projects" ---
+        if best_category:
+            categorized[best_category].append(f"- [{name}]({url}) — {desc}")
+        else:
+            lang_suffix = f" ({language})" if language != "Unknown" else ""
+            categorized["Other Projects"].append(
+                f"- [{name}]({url}) — {desc}{lang_suffix}"
+            )
 
     return categorized
 

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **67** starred repositories across **16** categories — last updated on **March 08, 2026 at 13:01 UTC**
+> **68** starred repositories across **16** categories — last updated on **March 09, 2026 at 04:08 UTC**
 
 ---
 
@@ -19,7 +19,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
 - [Languages & Compilers](#languages-compilers) (3)
-- [Machine Learning & AI](#machine-learning-ai) (11)
+- [Machine Learning & AI](#machine-learning-ai) (12)
 - [Mobile & Desktop Development](#mobile-desktop-development) (6)
 - [Productivity & Notes](#productivity-notes) (1)
 - [SEO & Marketing](#seo-marketing) (1)
@@ -82,6 +82,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) — Run LLMs with MLX
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) — MLX: An array framework for Apple silicon
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — A framework for few-shot evaluation of language models.

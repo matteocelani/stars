@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **68** starred repositories across **16** categories — last updated on **March 09, 2026 at 04:08 UTC**
+> **70** starred repositories across **16** categories — last updated on **March 10, 2026 at 04:01 UTC**
 
 ---
 
@@ -14,11 +14,11 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Data Science & Analytics](#data-science-analytics) (2)
 - [Databases & Data Layer](#databases-data-layer) (1)
 - [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (1)
-- [Frontend & UI Frameworks](#frontend-ui-frameworks) (11)
+- [Frontend & UI Frameworks](#frontend-ui-frameworks) (12)
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (3)
+- [Languages & Compilers](#languages-compilers) (4)
 - [Machine Learning & AI](#machine-learning-ai) (12)
 - [Mobile & Desktop Development](#mobile-desktop-development) (6)
 - [Productivity & Notes](#productivity-notes) (1)
@@ -48,6 +48,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Frontend & UI Frameworks
 
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [vercel/swr](https://github.com/vercel/swr) — React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -76,6 +77,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Languages & Compilers
 
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) — FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [donn/nudelta](https://github.com/donn/nudelta) — Open source NuPhy Console alternative
 - [AlexzanderFlores/Worn-Off-Keys-Discord-Js](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js) — No description provided.
 - [FrancescoCerio/WhereMI](https://github.com/FrancescoCerio/WhereMI) — Progetto per il corso di Tecnologie Web 2019/2020 Unibo

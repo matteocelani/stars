@@ -4,14 +4,15 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **70** starred repositories across **16** categories — last updated on **March 10, 2026 at 04:01 UTC**
+> **72** starred repositories across **17** categories — last updated on **March 11, 2026 at 04:01 UTC**
 
 ---
 
 ## Table of Contents
 
+- [Backend & APIs](#backend-apis) (1)
 - [CLI Tools & Utilities](#cli-tools-utilities) (1)
-- [Data Science & Analytics](#data-science-analytics) (2)
+- [Data Science & Analytics](#data-science-analytics) (3)
 - [Databases & Data Layer](#databases-data-layer) (1)
 - [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (1)
 - [Frontend & UI Frameworks](#frontend-ui-frameworks) (12)
@@ -29,12 +30,17 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ---
 
+## Backend & APIs
+
+- [br-g/openf1](https://github.com/br-g/openf1) — OpenF1 API - Real-time and historical Formula 1 data
+
 ## CLI Tools & Utilities
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks
 
 ## Data Science & Analytics
 
+- [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) — A real-time F1 dashboard
 - [recharts/recharts](https://github.com/recharts/recharts) — Redefined chart library built with React and D3
 - [apache/echarts](https://github.com/apache/echarts) — Apache ECharts is a powerful, interactive charting and data visualization library for browser
 

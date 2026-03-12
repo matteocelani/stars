@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **72** starred repositories across **17** categories — last updated on **March 11, 2026 at 04:01 UTC**
+> **73** starred repositories across **17** categories — last updated on **March 12, 2026 at 04:06 UTC**
 
 ---
 
@@ -19,7 +19,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (4)
+- [Languages & Compilers](#languages-compilers) (5)
 - [Machine Learning & AI](#machine-learning-ai) (12)
 - [Mobile & Desktop Development](#mobile-desktop-development) (6)
 - [Productivity & Notes](#productivity-notes) (1)
@@ -83,6 +83,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Languages & Compilers
 
+- [matteocelani/stars](https://github.com/matteocelani/stars) — An automated, categorized list of my GitHub stars.
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) — FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [donn/nudelta](https://github.com/donn/nudelta) — Open source NuPhy Console alternative
 - [AlexzanderFlores/Worn-Off-Keys-Discord-Js](https://github.com/AlexzanderFlores/Worn-Off-Keys-Discord-Js) — No description provided.

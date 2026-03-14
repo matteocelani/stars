@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **73** starred repositories across **17** categories — last updated on **March 13, 2026 at 04:04 UTC**
+> **75** starred repositories across **17** categories — last updated on **March 14, 2026 at 04:03 UTC**
 
 ---
 
@@ -15,13 +15,13 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Data Science & Analytics](#data-science-analytics) (3)
 - [Databases & Data Layer](#databases-data-layer) (1)
 - [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (1)
-- [Frontend & UI Frameworks](#frontend-ui-frameworks) (12)
+- [Frontend & UI Frameworks](#frontend-ui-frameworks) (13)
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
 - [Languages & Compilers](#languages-compilers) (5)
 - [Machine Learning & AI](#machine-learning-ai) (12)
-- [Mobile & Desktop Development](#mobile-desktop-development) (6)
+- [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (1)
 - [SEO & Marketing](#seo-marketing) (1)
 - [Security & Cryptography](#security-cryptography) (3)
@@ -54,6 +54,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Frontend & UI Frameworks
 
+- [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) — A large collection of high-quality React components that you can copy and paste into any project.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [vercel/swr](https://github.com/vercel/swr) — React Hooks for Data Fetching
@@ -106,6 +107,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
+- [Dimillian/PokeSwift](https://github.com/Dimillian/PokeSwift) — A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI
 - [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [localsend/localsend](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop
@@ -119,7 +121,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## SEO & Marketing
 
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
 
 ## Security & Cryptography
 

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **75** starred repositories across **17** categories — last updated on **March 14, 2026 at 04:03 UTC**
+> **78** starred repositories across **18** categories — last updated on **March 15, 2026 at 04:25 UTC**
 
 ---
 
@@ -14,18 +14,19 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [CLI Tools & Utilities](#cli-tools-utilities) (1)
 - [Data Science & Analytics](#data-science-analytics) (3)
 - [Databases & Data Layer](#databases-data-layer) (1)
-- [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (1)
+- [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (2)
 - [Frontend & UI Frameworks](#frontend-ui-frameworks) (13)
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (5)
+- [Languages & Compilers](#languages-compilers) (6)
 - [Machine Learning & AI](#machine-learning-ai) (12)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (1)
 - [SEO & Marketing](#seo-marketing) (1)
 - [Security & Cryptography](#security-cryptography) (3)
 - [Self-Hosting & Home Server](#self-hosting-home-server) (3)
+- [Testing & QA](#testing-qa) (1)
 - [Web3, Blockchain & Crypto](#web3,-blockchain-crypto) (18)
 
 ---
@@ -50,6 +51,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## DevOps, Cloud & Infrastructure
 
+- [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — :zap: Dynamically generated stats for your github readmes
 
 ## Frontend & UI Frameworks
@@ -84,6 +86,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Languages & Compilers
 
+- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
 - [matteocelani/stars](https://github.com/matteocelani/stars) — An automated, categorized list of my GitHub stars.
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) — FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [donn/nudelta](https://github.com/donn/nudelta) — Open source NuPhy Console alternative
@@ -134,6 +137,10 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+
+## Testing & QA
+
+- [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.
 
 ## Web3, Blockchain & Crypto
 

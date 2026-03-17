@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **78** starred repositories across **18** categories — last updated on **March 16, 2026 at 04:32 UTC**
+> **79** starred repositories across **18** categories — last updated on **March 17, 2026 at 04:09 UTC**
 
 ---
 
@@ -20,7 +20,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
 - [Languages & Compilers](#languages-compilers) (6)
-- [Machine Learning & AI](#machine-learning-ai) (12)
+- [Machine Learning & AI](#machine-learning-ai) (13)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (1)
 - [SEO & Marketing](#seo-marketing) (1)
@@ -95,6 +95,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) — Run LLMs with MLX
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) — MLX: An array framework for Apple silicon

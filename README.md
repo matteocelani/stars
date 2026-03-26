@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **80** starred repositories across **18** categories — last updated on **March 25, 2026 at 04:11 UTC**
+> **81** starred repositories across **18** categories — last updated on **March 26, 2026 at 04:26 UTC**
 
 ---
 
@@ -12,7 +12,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 - [Backend & APIs](#backend-apis) (1)
 - [CLI Tools & Utilities](#cli-tools-utilities) (1)
-- [Data Science & Analytics](#data-science-analytics) (3)
+- [Data Science & Analytics](#data-science-analytics) (4)
 - [Databases & Data Layer](#databases-data-layer) (1)
 - [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (2)
 - [Frontend & UI Frameworks](#frontend-ui-frameworks) (13)
@@ -41,6 +41,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Data Science & Analytics
 
+- [matteocelani/f1-telemetry](https://github.com/matteocelani/f1-telemetry) — Open Source live F1 telemetry analytics. A Next.js/Node.js monorepo decoding the official SignalR feed into real-time WebSockets.
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) — A real-time F1 dashboard
 - [recharts/recharts](https://github.com/recharts/recharts) — Redefined chart library built with React and D3
 - [apache/echarts](https://github.com/apache/echarts) — Apache ECharts is a powerful, interactive charting and data visualization library for browser

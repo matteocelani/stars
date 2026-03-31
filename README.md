@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **82** starred repositories across **18** categories — last updated on **March 30, 2026 at 04:38 UTC**
+> **82** starred repositories across **18** categories — last updated on **March 31, 2026 at 04:29 UTC**
 
 ---
 
@@ -62,7 +62,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [vercel/swr](https://github.com/vercel/swr) — React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [novuhq/novu](https://github.com/novuhq/novu) — The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) — The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [onesine/react-tailwindcss-datepicker](https://github.com/onesine/react-tailwindcss-datepicker) — Modern date range picker component for React using Tailwind 3 and dayjs. Alternative to Litepie Datepicker.
 - [motiondivision/motion](https://github.com/motiondivision/motion) — A modern animation library for React and JavaScript
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) — React components for interactive math
@@ -128,7 +128,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## SEO & Marketing
 
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google APIs, and PDF/Excel reporting.
 
 ## Security & Cryptography
 

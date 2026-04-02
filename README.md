@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **82** starred repositories across **18** categories — last updated on **April 01, 2026 at 04:41 UTC**
+> **85** starred repositories across **18** categories — last updated on **April 02, 2026 at 04:21 UTC**
 
 ---
 
@@ -20,10 +20,10 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
 - [Languages & Compilers](#languages-compilers) (7)
-- [Machine Learning & AI](#machine-learning-ai) (14)
+- [Machine Learning & AI](#machine-learning-ai) (16)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (1)
-- [SEO & Marketing](#seo-marketing) (1)
+- [SEO & Marketing](#seo-marketing) (2)
 - [Security & Cryptography](#security-cryptography) (3)
 - [Self-Hosting & Home Server](#self-hosting-home-server) (3)
 - [Testing & QA](#testing-qa) (1)
@@ -97,6 +97,8 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) — Vane is an AI-powered answering engine.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — Clone any website with one command using AI coding agents
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
@@ -128,6 +130,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## SEO & Marketing
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google APIs, and PDF/Excel reporting.
 
 ## Security & Cryptography

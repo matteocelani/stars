@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **85** starred repositories across **18** categories — last updated on **April 12, 2026 at 04:40 UTC**
+> **85** starred repositories across **18** categories — last updated on **April 13, 2026 at 04:52 UTC**
 
 ---
 
@@ -52,7 +52,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## DevOps, Cloud & Infrastructure
 
-- [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — :zap: Dynamically generated stats for your github readmes
 
 ## Frontend & UI Frameworks

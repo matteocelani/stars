@@ -4,13 +4,13 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **85** starred repositories across **18** categories — last updated on **April 13, 2026 at 04:52 UTC**
+> **86** starred repositories across **18** categories — last updated on **April 14, 2026 at 04:39 UTC**
 
 ---
 
 ## Table of Contents
 
-- [Backend & APIs](#backend-apis) (1)
+- [Backend & APIs](#backend-apis) (2)
 - [CLI Tools & Utilities](#cli-tools-utilities) (1)
 - [Data Science & Analytics](#data-science-analytics) (4)
 - [Databases & Data Layer](#databases-data-layer) (1)
@@ -33,6 +33,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Backend & APIs
 
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) — No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [br-g/openf1](https://github.com/br-g/openf1) — OpenF1 API - Real-time and historical Formula 1 data
 
 ## CLI Tools & Utilities

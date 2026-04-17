@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **88** starred repositories across **18** categories — last updated on **April 16, 2026 at 04:45 UTC**
+> **89** starred repositories across **18** categories — last updated on **April 17, 2026 at 04:42 UTC**
 
 ---
 
@@ -19,7 +19,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (7)
+- [Languages & Compilers](#languages-compilers) (8)
 - [Machine Learning & AI](#machine-learning-ai) (18)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (1)
@@ -88,6 +88,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Languages & Compilers
 
+- [timing71/web](https://github.com/timing71/web) — Timing71 website
 - [ngutman/openclaw-ha-addon](https://github.com/ngutman/openclaw-ha-addon) — No description provided.
 - [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
 - [matteocelani/stars](https://github.com/matteocelani/stars) — An automated, categorized list of my GitHub stars.
@@ -109,7 +110,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) — MLX: An array framework for Apple silicon
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — A framework for few-shot evaluation of language models.
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) — A free + OSS logo generator powered by Flux on Together AI
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) — No description provided.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) — A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [continuedev/continue](https://github.com/continuedev/continue) — ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI

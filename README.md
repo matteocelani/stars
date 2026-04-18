@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **89** starred repositories across **18** categories — last updated on **April 17, 2026 at 04:42 UTC**
+> **89** starred repositories across **18** categories — last updated on **April 18, 2026 at 04:24 UTC**
 
 ---
 
@@ -14,8 +14,8 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [CLI Tools & Utilities](#cli-tools-utilities) (1)
 - [Data Science & Analytics](#data-science-analytics) (4)
 - [Databases & Data Layer](#databases-data-layer) (1)
-- [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (2)
-- [Frontend & UI Frameworks](#frontend-ui-frameworks) (13)
+- [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (3)
+- [Frontend & UI Frameworks](#frontend-ui-frameworks) (12)
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
@@ -54,6 +54,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 ## DevOps, Cloud & Infrastructure
 
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+- [novuhq/novu](https://github.com/novuhq/novu) — The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — :zap: Dynamically generated stats for your github readmes
 
 ## Frontend & UI Frameworks
@@ -63,7 +64,6 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [vercel/swr](https://github.com/vercel/swr) — React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [novuhq/novu](https://github.com/novuhq/novu) — The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [onesine/react-tailwindcss-datepicker](https://github.com/onesine/react-tailwindcss-datepicker) — Modern date range picker component for React using Tailwind 3 and dayjs. Alternative to Litepie Datepicker.
 - [motiondivision/motion](https://github.com/motiondivision/motion) — A modern animation library for React and JavaScript
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) — React components for interactive math

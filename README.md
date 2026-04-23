@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **91** starred repositories across **18** categories — last updated on **April 22, 2026 at 04:39 UTC**
+> **91** starred repositories across **18** categories — last updated on **April 23, 2026 at 04:44 UTC**
 
 ---
 
@@ -49,7 +49,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Databases & Data Layer
 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — 📨 The ultimate agentic social media scheduling tool 🤖
 
 ## DevOps, Cloud & Infrastructure
 

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **91** starred repositories across **18** categories — last updated on **April 23, 2026 at 04:44 UTC**
+> **93** starred repositories across **18** categories — last updated on **April 24, 2026 at 04:48 UTC**
 
 ---
 
@@ -19,10 +19,10 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (9)
+- [Languages & Compilers](#languages-compilers) (10)
 - [Machine Learning & AI](#machine-learning-ai) (18)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
-- [Productivity & Notes](#productivity-notes) (1)
+- [Productivity & Notes](#productivity-notes) (2)
 - [SEO & Marketing](#seo-marketing) (2)
 - [Security & Cryptography](#security-cryptography) (3)
 - [Self-Hosting & Home Server](#self-hosting-home-server) (3)
@@ -89,6 +89,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Languages & Compilers
 
+- [woltapp/blurhash](https://github.com/woltapp/blurhash) — A very compact representation of a placeholder for an image.
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) — TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [timing71/web](https://github.com/timing71/web) — Timing71 website
 - [ngutman/openclaw-ha-addon](https://github.com/ngutman/openclaw-ha-addon) — No description provided.
@@ -132,6 +133,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Productivity & Notes
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [remarkjs/remark](https://github.com/remarkjs/remark) — markdown processor powered by plugins part of the @unifiedjs collective
 
 ## SEO & Marketing

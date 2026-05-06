@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **94** starred repositories across **18** categories — last updated on **May 05, 2026 at 04:55 UTC**
+> **95** starred repositories across **18** categories — last updated on **May 06, 2026 at 05:21 UTC**
 
 ---
 
@@ -20,7 +20,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
 - [Internationalization & Localization](#internationalization-localization) (1)
 - [Languages & Compilers](#languages-compilers) (10)
-- [Machine Learning & AI](#machine-learning-ai) (18)
+- [Machine Learning & AI](#machine-learning-ai) (19)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (2)
 - [SEO & Marketing](#seo-marketing) (2)
@@ -103,6 +103,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [xming521/WeClone](https://github.com/xming521/WeClone) — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) — An open source template for building cloud agents.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.

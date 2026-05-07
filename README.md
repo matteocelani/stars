@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **95** starred repositories across **18** categories — last updated on **May 06, 2026 at 05:21 UTC**
+> **101** starred repositories across **18** categories — last updated on **May 07, 2026 at 05:24 UTC**
 
 ---
 
@@ -17,14 +17,14 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (3)
 - [Frontend & UI Frameworks](#frontend-ui-frameworks) (14)
 - [Game Development & Maps](#game-development-maps) (2)
-- [Guides, Tutorials & Resources](#guides,-tutorials-resources) (2)
+- [Guides, Tutorials & Resources](#guides,-tutorials-resources) (3)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (10)
-- [Machine Learning & AI](#machine-learning-ai) (19)
+- [Languages & Compilers](#languages-compilers) (13)
+- [Machine Learning & AI](#machine-learning-ai) (20)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (2)
 - [SEO & Marketing](#seo-marketing) (2)
-- [Security & Cryptography](#security-cryptography) (3)
+- [Security & Cryptography](#security-cryptography) (4)
 - [Self-Hosting & Home Server](#self-hosting-home-server) (3)
 - [Testing & QA](#testing-qa) (1)
 - [Web3, Blockchain & Crypto](#web3,-blockchain-crypto) (18)
@@ -81,6 +81,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Guides, Tutorials & Resources
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) — Curated coding interview preparation materials for busy software engineers
 - [immuni-app/immuni-documentation](https://github.com/immuni-app/immuni-documentation) — Repo for Immuni's documentation.
 
@@ -90,6 +91,9 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Languages & Compilers
 
+- [context-dot-dev/designmd-supply](https://github.com/context-dot-dev/designmd-supply) — A supply of the world's designmds
+- [loisekk/f1-race-replay](https://github.com/loisekk/f1-race-replay) — An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
+- [open-circle/formisch](https://github.com/open-circle/formisch) — The modular and type-safe form library for any framework
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) — A very compact representation of a placeholder for an image.
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) — TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [timing71/web](https://github.com/timing71/web) — Timing71 website
@@ -103,6 +107,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) — Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
 - [xming521/WeClone](https://github.com/xming521/WeClone) — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) — An open source template for building cloud agents.
@@ -145,6 +150,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Security & Cryptography
 
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) — Find, verify, and analyze leaked credentials
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) — Authentication for the Web.
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) — The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.

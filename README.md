@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **101** starred repositories across **18** categories — last updated on **May 07, 2026 at 05:24 UTC**
+> **104** starred repositories across **18** categories — last updated on **May 08, 2026 at 04:48 UTC**
 
 ---
 
@@ -19,7 +19,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (3)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (13)
+- [Languages & Compilers](#languages-compilers) (16)
 - [Machine Learning & AI](#machine-learning-ai) (20)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (2)
@@ -91,6 +91,9 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Languages & Compilers
 
+- [devbis/z03mmc](https://github.com/devbis/z03mmc) — Xiaomi LYWSD03MMC Zigbee Firmware
+- [anthropics/financial-services](https://github.com/anthropics/financial-services) — No description provided.
+- [faker-js/faker](https://github.com/faker-js/faker) — Generate massive amounts of fake data in the browser and node.js
 - [context-dot-dev/designmd-supply](https://github.com/context-dot-dev/designmd-supply) — A supply of the world's designmds
 - [loisekk/f1-race-replay](https://github.com/loisekk/f1-race-replay) — An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 - [open-circle/formisch](https://github.com/open-circle/formisch) — The modular and type-safe form library for any framework

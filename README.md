@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **105** starred repositories across **18** categories — last updated on **May 09, 2026 at 05:15 UTC**
+> **105** starred repositories across **18** categories — last updated on **May 10, 2026 at 05:30 UTC**
 
 ---
 
@@ -15,11 +15,11 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Data Science & Analytics](#data-science-analytics) (4)
 - [Databases & Data Layer](#databases-data-layer) (1)
 - [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (3)
-- [Frontend & UI Frameworks](#frontend-ui-frameworks) (14)
+- [Frontend & UI Frameworks](#frontend-ui-frameworks) (15)
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (3)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (16)
+- [Languages & Compilers](#languages-compilers) (15)
 - [Machine Learning & AI](#machine-learning-ai) (20)
 - [Mobile & Desktop Development](#mobile-desktop-development) (7)
 - [Productivity & Notes](#productivity-notes) (2)
@@ -60,6 +60,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Frontend & UI Frameworks
 
+- [open-circle/formisch](https://github.com/open-circle/formisch) — The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) — Beautiful map components. 100% Free, Zero config, one command setup.
 - [nrwl/nx](https://github.com/nrwl/nx) — The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) — A large collection of high-quality React components that you can copy and paste into any project.
@@ -97,7 +98,6 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [faker-js/faker](https://github.com/faker-js/faker) — Generate massive amounts of fake data in the browser and node.js
 - [context-dot-dev/designmd-supply](https://github.com/context-dot-dev/designmd-supply) — A supply of the world's designmds
 - [loisekk/f1-race-replay](https://github.com/loisekk/f1-race-replay) — An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
-- [open-circle/formisch](https://github.com/open-circle/formisch) — The modular and type-safe form library for any framework
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) — A very compact representation of a placeholder for an image.
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) — TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [timing71/web](https://github.com/timing71/web) — Timing71 website

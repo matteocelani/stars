@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **105** starred repositories across **18** categories — last updated on **May 10, 2026 at 05:30 UTC**
+> **106** starred repositories across **18** categories — last updated on **May 11, 2026 at 05:51 UTC**
 
 ---
 
@@ -17,11 +17,11 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [DevOps, Cloud & Infrastructure](#devops,-cloud-infrastructure) (3)
 - [Frontend & UI Frameworks](#frontend-ui-frameworks) (15)
 - [Game Development & Maps](#game-development-maps) (2)
-- [Guides, Tutorials & Resources](#guides,-tutorials-resources) (3)
+- [Guides, Tutorials & Resources](#guides,-tutorials-resources) (4)
 - [Internationalization & Localization](#internationalization-localization) (1)
 - [Languages & Compilers](#languages-compilers) (15)
-- [Machine Learning & AI](#machine-learning-ai) (20)
-- [Mobile & Desktop Development](#mobile-desktop-development) (7)
+- [Machine Learning & AI](#machine-learning-ai) (19)
+- [Mobile & Desktop Development](#mobile-desktop-development) (8)
 - [Productivity & Notes](#productivity-notes) (2)
 - [SEO & Marketing](#seo-marketing) (2)
 - [Security & Cryptography](#security-cryptography) (4)
@@ -83,6 +83,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Guides, Tutorials & Resources
 
+- [machinae/awesome-claws](https://github.com/machinae/awesome-claws) — A curated list of awesome AI agents inspired by OpenClaw
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) — Curated coding interview preparation materials for busy software engineers
 - [immuni-app/immuni-documentation](https://github.com/immuni-app/immuni-documentation) — Repo for Immuni's documentation.
@@ -115,7 +116,6 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [xming521/WeClone](https://github.com/xming521/WeClone) — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) — An open source template for building cloud agents.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) — Vane is an AI-powered answering engine.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — Clone any website with one command using AI coding agents
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -134,6 +134,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
+- [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) — Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
 - [Dimillian/PokeSwift](https://github.com/Dimillian/PokeSwift) — A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI
 - [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.

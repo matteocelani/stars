@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **106** starred repositories across **18** categories — last updated on **May 11, 2026 at 05:51 UTC**
+> **110** starred repositories across **18** categories — last updated on **May 12, 2026 at 05:31 UTC**
 
 ---
 
@@ -19,14 +19,14 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Game Development & Maps](#game-development-maps) (2)
 - [Guides, Tutorials & Resources](#guides,-tutorials-resources) (4)
 - [Internationalization & Localization](#internationalization-localization) (1)
-- [Languages & Compilers](#languages-compilers) (15)
-- [Machine Learning & AI](#machine-learning-ai) (19)
+- [Languages & Compilers](#languages-compilers) (17)
+- [Machine Learning & AI](#machine-learning-ai) (20)
 - [Mobile & Desktop Development](#mobile-desktop-development) (8)
 - [Productivity & Notes](#productivity-notes) (2)
 - [SEO & Marketing](#seo-marketing) (2)
 - [Security & Cryptography](#security-cryptography) (4)
 - [Self-Hosting & Home Server](#self-hosting-home-server) (3)
-- [Testing & QA](#testing-qa) (1)
+- [Testing & QA](#testing-qa) (2)
 - [Web3, Blockchain & Crypto](#web3,-blockchain-crypto) (18)
 
 ---
@@ -94,6 +94,8 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Languages & Compilers
 
+- [strongca22-cpu/gabagool](https://github.com/strongca22-cpu/gabagool) — gabagool bot
+- [0xGF/boneyard](https://github.com/0xGF/boneyard) — Auto generated skeleton loading framework
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) — Xiaomi LYWSD03MMC Zigbee Firmware
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) — No description provided.
 - [faker-js/faker](https://github.com/faker-js/faker) — Generate massive amounts of fake data in the browser and node.js
@@ -112,6 +114,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) — The headless browser for AI agents and web scraping
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) — Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
 - [xming521/WeClone](https://github.com/xming521/WeClone) — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案  
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -151,7 +154,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 ## SEO & Marketing
 
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google APIs, and PDF/Excel reporting.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.
 
 ## Security & Cryptography
 
@@ -168,6 +171,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Testing & QA
 
+- [nrwl/nx-examples](https://github.com/nrwl/nx-examples) — Example repo for Nx workspace
 - [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.
 
 ## Web3, Blockchain & Crypto

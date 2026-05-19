@@ -72,7 +72,8 @@ def categorize_repos(repos):
             "data-science", "datascience", "data-analysis", "analytics",
             "pandas", "numpy", "polars", "jupyter", "matplotlib", "seaborn",
             "scipy", "statsmodels", "dataframe", "etl", "time-series",
-            "data-engineering",
+            "data-engineering", "visualisation",
+            "f1", "motorsport",
         ],
         "Security & Privacy": [
             "security", "cybersecurity", "infosec", "cryptography", "hacking",
@@ -84,7 +85,9 @@ def categorize_repos(repos):
         "Self-Hosting & Home Server": [
             "self-hosted", "homelab", "home-server", "home-cloud",
             "personal-cloud", "personal-server", "home-automation", "ha-addon",
-            "homeassistant", "casaos", "umbrel", "iptv", "media-server",
+            "homeassistant", "home-assistant", "smart-home", "iot",
+            "firmware", "zigbee", "esp32", "esp8266", "raspberry-pi",
+            "casaos", "umbrel", "iptv", "media-server",
         ],
         "SEO & Marketing": [
             "seo", "marketing", "marketing-automation", "growth", "copywriting",
@@ -138,9 +141,12 @@ def categorize_repos(repos):
             "readme", "profile-readme", "readme-generator", "readme-stats",
             "obsidian", "notion", "knowledge-base", "todo", "pkm", "notes",
             "productivity", "programming-language",
+            "testing", "test", "e2e", "jest", "cypress", "playwright",
+            "vitest", "mocha", "qa", "mock", "mocking", "faker",
         ],
         "Guides, Books & Resources": [
-            "awesome", "tutorial", "guide", "education", "learning", "course",
+            "awesome", "awesome-list", "curated-list",
+            "tutorial", "guide", "education", "learning", "course",
             "roadmap", "books", "book", "resources", "interview", "handbook",
             "documentation",
         ],

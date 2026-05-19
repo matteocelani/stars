@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic or programming language, automatically updating this README.
 
-> **110** starred repositories across **18** categories — last updated on **May 18, 2026 at 06:04 UTC**
+> **110** starred repositories across **18** categories — last updated on **May 19, 2026 at 05:59 UTC**
 
 ---
 
@@ -121,7 +121,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) — An open source template for building cloud agents.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) — Vane is an AI-powered answering engine.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — Clone any website with one command using AI coding agents
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) — Run LLMs with MLX
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) — MLX: An array framework for Apple silicon

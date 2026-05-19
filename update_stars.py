@@ -31,112 +31,118 @@ def get_starred_repos():
     return repos
 
 def categorize_repos(repos):
-    """Categorize repositories using deep text analysis with scoring-based assignment.
+    """Categorize repositories using keyword scoring across topics, description, name.
 
-    Matches keywords against three sources per repo: topics, description, and
-    the repository name. Each repo is assigned to the category with the highest
-    cumulative keyword-match score. Repos that match no category are placed in
-    a consolidated "Other Projects" bucket with the primary language appended.
+    Each keyword that matches contributes:
+      +2 if it appears as an exact GitHub topic
+      +1 if it appears as a word-boundary match in the description
+      +1 if it appears as a word-boundary match in the repo name
+    The category with the strictly highest score wins. Repos with score 0
+    (no signal at all) fall into "Other Projects".
+
+    Category order below is intentional: on ties, the earlier category wins,
+    so put more specific/distinctive categories first.
     """
     categorized = defaultdict(list)
 
-    # ------------------------------------------------------------------
-    # Expanded taxonomy — keywords are matched case-insensitively against
-    # topics (exact token match) AND description/repo-name (substring).
-    # ------------------------------------------------------------------
     type_keywords = {
         "Web3, Blockchain & Crypto": [
-            "web3", "blockchain", "crypto", "ethereum", "solidity", "bitcoin",
-            "nft", "defi", "smart-contract", "smart-contracts", "hardhat",
-            "foundry", "wagmi", "viem", "rainbowkit", "connectkit", "aave",
-            "uniswap", "flash-loan", "dapp", "openzeppelin", "vyper",
-            "multicall", "nostr", "lightning-network", "token", "erc20",
-            "erc721", "solhint", "slither",
+            "web3", "blockchain", "crypto", "cryptocurrency", "dapp", "token",
+            "evm", "wallet",
+            "ethereum", "bitcoin", "nostr", "lightning-network",
+            "solidity", "vyper", "smart-contract", "smart-contracts", "hardhat",
+            "foundry", "wagmi", "viem", "ethers", "ethersjs", "rainbowkit",
+            "connectkit", "multicall", "openzeppelin",
+            "aave", "uniswap", "flash-loan", "nft", "defi", "erc20", "erc721",
+            "solhint", "slither",
         ],
         "Machine Learning & AI": [
-            "machine-learning", "ai", "deep-learning", "llm", "nlp",
-            "computer-vision", "neural-network", "tensorflow", "pytorch",
-            "keras", "scikit-learn", "openai", "huggingface", "generative-ai",
-            "generative", "stable-diffusion", "deepseek", "claude", "gpt",
-            "mlx", "ollama", "langchain", "rag", "lm-evaluation",
-            "language-model", "anthropic", "gemini",
-        ],
-        "SEO & Marketing": [
-            "seo", "marketing", "growth", "social-media", "scheduling",
+            "ai", "artificial-intelligence", "machine-learning", "deep-learning",
+            "neural-network", "nlp", "computer-vision", "generative",
+            "generative-ai", "language-model",
+            "llm", "llms", "gpt", "gpt-3", "gpt-4", "gpt-5", "chatgpt", "claude",
+            "anthropic", "deepseek", "gemini", "openai", "ollama",
+            "stable-diffusion",
+            "tensorflow", "pytorch", "keras", "scikit-learn", "huggingface",
+            "langchain", "rag", "lm-evaluation", "mlx",
+            "agent", "agents", "ai-agents", "ai-tools", "agentic", "skills",
+            "mcp", "claude-code", "chatbot", "assistant",
         ],
         "Data Science & Analytics": [
-            "data-science", "analytics", "pandas", "numpy", "jupyter",
-            "visualization", "matplotlib", "seaborn", "dashboard", "d3",
-            "streamlit", "echarts", "chart", "recharts", "plotly",
+            "data-science", "datascience", "data-analysis", "analytics",
+            "pandas", "numpy", "polars", "jupyter", "matplotlib", "seaborn",
+            "scipy", "statsmodels", "dataframe", "etl", "time-series",
+            "data-engineering",
         ],
-        "Frontend & UI Frameworks": [
-            "react", "vue", "angular", "svelte", "frontend", "css", "ui",
-            "tailwind", "next", "nuxt", "solid", "preact", "components",
-            "web-components", "html", "animation", "motion", "glassmorphism",
-            "datepicker", "heroui", "mafs", "nextui",
+        "Security & Privacy": [
+            "security", "cybersecurity", "infosec", "cryptography", "hacking",
+            "pentesting", "osint", "reconnaissance", "static-analysis",
+            "authentication", "authorization", "auth", "oauth", "oauth2", "jwt",
+            "malware", "credentials", "secret", "social-engineer", "trufflehog",
+            "vulnerability", "encryption",
         ],
-        "Backend & APIs": [
-            "backend", "api", "server", "express", "django", "flask",
-            "fastapi", "graphql", "rest", "nest", "laravel", "spring",
-            "ruby-on-rails", "microservices",
+        "Self-Hosting & Home Server": [
+            "self-hosted", "homelab", "home-server", "home-cloud",
+            "personal-cloud", "personal-server", "home-automation", "ha-addon",
+            "homeassistant", "casaos", "umbrel", "iptv", "media-server",
         ],
-        "Databases & Data Layer": [
+        "SEO & Marketing": [
+            "seo", "marketing", "marketing-automation", "growth", "copywriting",
+            "social-media", "scheduling", "scheduling-tool",
+            "social-media-scheduling-tool",
+        ],
+        "Mobile & Desktop Development": [
+            "mobile", "android", "ios", "react-native", "flutter", "dart",
+            "swift", "swiftui", "kotlin", "macos", "windows",
+            "cross-platform", "capacitor", "ionic", "apple-silicon",
+            "localsend", "electron", "tauri",
+        ],
+        "DevOps, Cloud & Infrastructure": [
+            "devops", "docker", "kubernetes", "k8s", "helm", "terraform",
+            "ansible", "ci-cd", "github-actions", "gitlab-ci", "jenkins",
+            "aws", "gcp", "azure", "cloud", "serverless", "deployment",
+            "infrastructure", "monitoring", "observability", "prometheus",
+            "grafana",
+        ],
+        "Backend, APIs & Databases": [
+            "backend", "api", "server", "express", "expressjs", "fastapi",
+            "django", "flask", "graphql", "rest", "nest", "laravel", "spring",
+            "ruby-on-rails", "microservices", "nodejs", "websockets",
+            "notification", "notifications",
             "database", "sql", "nosql", "postgresql", "mysql", "mongodb",
             "redis", "prisma", "orm", "sqlite", "drizzle", "supabase",
             "firebase",
         ],
-        "DevOps, Cloud & Infrastructure": [
-            "devops", "docker", "kubernetes", "terraform", "ansible", "ci-cd",
-            "github-actions", "aws", "cloud", "serverless", "deployment",
-            "infrastructure", "monitoring", "observability",
+        "Frontend & UI": [
+            "react", "reactjs", "vue", "angular", "svelte", "solid", "preact",
+            "next", "nextjs", "nuxt", "gatsby",
+            "css", "ui", "tailwind", "tailwindcss", "components",
+            "component-library", "web-components", "html", "shadcn-ui",
+            "heroui", "nextui", "frontend",
+            "animation", "animations", "motion", "glassmorphism", "datepicker",
+            "mafs", "hooks", "hook", "fetch", "query", "swr",
+            "chart", "charts", "charting-library", "d3", "visualization",
+            "data-visualization", "data-viz", "dashboard", "recharts",
+            "echarts", "plotly",
+            "maps", "leaflet", "mapbox", "webgl", "formula1",
         ],
-        "Self-Hosting & Home Server": [
-            "self-hosted", "homelab", "home-server", "casaos", "umbrel",
-            "personal-cloud", "iptv", "media-server",
-        ],
-        "Security & Cryptography": [
-            "security", "cryptography", "hacking", "pentesting",
-            "authentication", "authorization", "oauth", "jwt", "malware",
-            "cybersecurity", "credentials", "trufflehog", "social-engineer",
-            "linting", "analyzer",
-        ],
-        "CLI Tools & Utilities": [
-            "cli", "terminal", "command-line", "utility", "shell",
-            "bash", "zsh", "tui", "dotfiles", "sherlock",
-        ],
-        "Mobile & Desktop Development": [
-            "mobile", "android", "ios", "react-native", "flutter", "swift",
-            "swiftui", "kotlin", "macos", "windows", "cross-platform",
-            "capacitor", "ionic", "apple-silicon", "localsend", "container",
-        ],
-        "Game Development & Maps": [
-            "game-engine", "gamedev", "unity", "unreal-engine", "godot",
-            "phaser", "pygame", "webgl", "threejs", "mapbox", "leaflet",
-            "maps", "geospatial",
-        ],
-        "Guides, Tutorials & Resources": [
-            "awesome", "tutorial", "guide", "education", "learning", "course",
-            "roadmap", "books", "resources", "interview", "handbook",
-            "documentation",
-        ],
-        "Internationalization & Localization": [
-            "i18n", "l10n", "internationalization", "localization", "lingui",
+        "Developer Tools": [
+            "cli", "terminal", "command-line", "utility", "shell", "bash",
+            "zsh", "tui", "dotfiles",
+            "editor", "ide", "vim", "neovim", "emacs", "vscode", "theme",
+            "themes", "terminal-themes", "color-schemes", "plugins",
+            "markdown", "remark", "ast", "parser", "compiler", "interpreter",
+            "i18n", "l10n", "internationalization", "localization",
             "translation",
+            "keyboard", "remap", "nuphy",
+            "readme", "profile-readme", "readme-generator", "readme-stats",
+            "obsidian", "notion", "knowledge-base", "todo", "pkm", "notes",
+            "productivity", "programming-language",
         ],
-        "Productivity & Notes": [
-            "productivity", "notes", "markdown", "obsidian", "notion",
-            "knowledge-base", "todo", "pkm", "remark",
-        ],
-        "Testing & QA": [
-            "testing", "qa", "jest", "cypress", "playwright", "selenium",
-            "mocha", "vitest", "automation", "e2e",
-        ],
-        "Editors & IDEs": [
-            "editor", "ide", "vim", "neovim", "emacs", "vscode", "plugins",
-            "theme",
-        ],
-        "Languages & Compilers": [
-            "programming-language", "compiler", "interpreter", "ast", "parser",
+        "Guides, Books & Resources": [
+            "awesome", "tutorial", "guide", "education", "learning", "course",
+            "roadmap", "books", "book", "resources", "interview", "handbook",
+            "documentation",
         ],
     }
 
@@ -147,32 +153,28 @@ def categorize_repos(repos):
         topics = [t.lower() for t in repo.get("topics", [])]
         language = repo.get("language") or "Unknown"
 
-        # Build a lowercase search corpus from description and repo name
-        repo_name_lower = name.lower().split("/")[-1]   # e.g. "deepseek-v3"
+        repo_name_lower = name.lower().split("/")[-1]
         desc_lower = desc.lower()
 
-        # --- Scoring: count keyword hits across topics, description, name ---
         best_category = None
         best_score = 0
 
         for category, keywords in type_keywords.items():
             score = 0
             for kw in keywords:
-                # Exact match in topics list (highest confidence)
                 if kw in topics:
                     score += 2
-                # Word-boundary match in description (avoids partial matches)
                 if re.search(r"\b" + re.escape(kw) + r"\b", desc_lower):
                     score += 1
-                # Word-boundary match in repository name
                 if re.search(r"\b" + re.escape(kw) + r"\b", repo_name_lower):
                     score += 1
 
-            if score >= best_score:
+            # Strict ">" so ties keep the earlier (more specific) category.
+            # Score must be > 0 to assign — otherwise fall to "Other Projects".
+            if score > best_score:
                 best_score = score
                 best_category = category
 
-        # --- Assign to best category or fall back to "Other Projects" ---
         if best_category:
             categorized[best_category].append(f"- [{name}]({url}) — {desc}")
         else:
@@ -182,6 +184,18 @@ def categorize_repos(repos):
             )
 
     return categorized
+
+def _github_anchor(heading):
+    """Generate a GitHub-compatible heading anchor.
+
+    Mirrors GitHub's algorithm: lowercase, drop non-word/non-space/non-hyphen
+    characters, then replace spaces with hyphens. Consecutive hyphens are
+    preserved (GitHub does not collapse them).
+    """
+    anchor = heading.lower()
+    anchor = re.sub(r"[^\w\s-]", "", anchor)
+    anchor = re.sub(r"\s", "-", anchor)
+    return anchor
 
 def write_readme(categorized):
     """Generate a clean, well-structured README.md from categorized repositories."""
@@ -195,15 +209,14 @@ def write_readme(categorized):
         f.write("An automated, categorized list of my GitHub stars.\n\n")
         f.write("This repository uses a GitHub Action to run a Python script daily. ")
         f.write("The script fetches all my starred repositories and categorizes them ")
-        f.write("by topic or programming language, automatically updating this README.\n\n")
+        f.write("by topic, automatically updating this README.\n\n")
         f.write(f"> **{total_repos}** starred repositories across **{len(sorted_categories)}** categories — last updated on **{timestamp}**\n\n")
 
         # Table of contents
         f.write("---\n\n")
         f.write("## Table of Contents\n\n")
         for category in sorted_categories:
-            # Generate a GitHub-compatible anchor link
-            anchor = category.lower().replace(" ", "-").replace("&", "").replace(":", "").replace("--", "-")
+            anchor = _github_anchor(category)
             count = len(categorized[category])
             f.write(f"- [{category}](#{anchor}) ({count})\n")
         f.write("\n")

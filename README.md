@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **111** starred repositories across **12** categories — last updated on **May 22, 2026 at 05:58 UTC**
+> **114** starred repositories across **12** categories — last updated on **May 23, 2026 at 05:33 UTC**
 
 ---
 
@@ -12,11 +12,11 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 - [Backend, APIs & Databases](#backend-apis--databases) (4)
 - [Data Science & Analytics](#data-science--analytics) (2)
-- [Developer Tools](#developer-tools) (6)
-- [Frontend & UI](#frontend--ui) (22)
+- [Developer Tools](#developer-tools) (7)
+- [Frontend & UI](#frontend--ui) (23)
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (28)
-- [Mobile & Desktop Development](#mobile--desktop-development) (6)
+- [Mobile & Desktop Development](#mobile--desktop-development) (7)
 - [Other Projects](#other-projects) (10)
 - [SEO & Marketing](#seo--marketing) (1)
 - [Security & Privacy](#security--privacy) (5)
@@ -39,6 +39,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Developer Tools
 
+- [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) — A simple Markdown viewer for reading .md files
 - [faker-js/faker](https://github.com/faker-js/faker) — Generate massive amounts of fake data in the browser and node.js
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) — 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 - [remarkjs/remark](https://github.com/remarkjs/remark) — markdown processor powered by plugins part of the @unifiedjs collective
@@ -48,6 +49,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Frontend & UI
 
+- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) — Collection of the most essential transitions for web apps including product motion skill
 - [figitdesign/web-to-figma](https://github.com/figitdesign/web-to-figma) — Convert HTML to editable Figma layers. No plugin needed, just paste.
 - [nrwl/nx-examples](https://github.com/nrwl/nx-examples) — Example repo for Nx workspace
 - [open-circle/formisch](https://github.com/open-circle/formisch) — The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.
@@ -111,6 +113,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) — Read-only tool for inventorying packages, extensions, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.
 - [Dimillian/PokeSwift](https://github.com/Dimillian/PokeSwift) — A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI
 - [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.

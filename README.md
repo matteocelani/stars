@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **114** starred repositories across **12** categories — last updated on **May 23, 2026 at 05:33 UTC**
+> **115** starred repositories across **12** categories — last updated on **May 24, 2026 at 05:54 UTC**
 
 ---
 
@@ -16,10 +16,10 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Frontend & UI](#frontend--ui) (23)
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (28)
-- [Mobile & Desktop Development](#mobile--desktop-development) (7)
-- [Other Projects](#other-projects) (10)
+- [Mobile & Desktop Development](#mobile--desktop-development) (6)
+- [Other Projects](#other-projects) (11)
 - [SEO & Marketing](#seo--marketing) (1)
-- [Security & Privacy](#security--privacy) (5)
+- [Security & Privacy](#security--privacy) (6)
 - [Self-Hosting & Home Server](#self-hosting--home-server) (5)
 - [Web3, Blockchain & Crypto](#web3-blockchain--crypto) (18)
 
@@ -113,7 +113,6 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
-- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) — Read-only tool for inventorying packages, extensions, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.
 - [Dimillian/PokeSwift](https://github.com/Dimillian/PokeSwift) — A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI
 - [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -123,6 +122,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Other Projects
 
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) — Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (Go)
 - [strongca22-cpu/gabagool](https://github.com/strongca22-cpu/gabagool) — gabagool bot (Python)
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) — Auto generated skeleton loading framework (TypeScript)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) — No description provided. (Python)
@@ -140,6 +140,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Security & Privacy
 
+- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) — Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) — Find, verify, and analyze leaked credentials
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks

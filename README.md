@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **115** starred repositories across **12** categories — last updated on **May 25, 2026 at 06:18 UTC**
+> **115** starred repositories across **12** categories — last updated on **May 26, 2026 at 05:58 UTC**
 
 ---
 
@@ -76,7 +76,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 ## Guides, Books & Resources
 
 - [machinae/awesome-claws](https://github.com/machinae/awesome-claws) — A curated list of awesome AI agents inspired by OpenClaw
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) — Curated coding interview preparation materials for busy software engineers
 - [immuni-app/immuni-documentation](https://github.com/immuni-app/immuni-documentation) — Repo for Immuni's documentation.
 

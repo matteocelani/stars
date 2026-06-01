@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **116** starred repositories across **12** categories — last updated on **May 31, 2026 at 06:09 UTC**
+> **116** starred repositories across **12** categories — last updated on **June 01, 2026 at 06:46 UTC**
 
 ---
 
@@ -30,7 +30,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) — Free Weather Forecast API for non-commercial use
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) — No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [br-g/openf1](https://github.com/br-g/openf1) — OpenF1 API - Real-time and historical Formula 1 data
-- [novuhq/novu](https://github.com/novuhq/novu) — The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) — The open-source communication infrastructure for agents and products
 
 ## Data Science & Analytics
 

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **116** starred repositories across **12** categories — last updated on **June 01, 2026 at 06:46 UTC**
+> **117** starred repositories across **12** categories — last updated on **June 02, 2026 at 06:28 UTC**
 
 ---
 
@@ -12,7 +12,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 - [Backend, APIs & Databases](#backend-apis--databases) (4)
 - [Data Science & Analytics](#data-science--analytics) (2)
-- [Developer Tools](#developer-tools) (7)
+- [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (23)
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (29)
@@ -39,6 +39,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Developer Tools
 
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) — A simple Markdown viewer for reading .md files
 - [faker-js/faker](https://github.com/faker-js/faker) — Generate massive amounts of fake data in the browser and node.js
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) — 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript

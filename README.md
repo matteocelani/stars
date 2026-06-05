@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **117** starred repositories across **12** categories — last updated on **June 04, 2026 at 06:28 UTC**
+> **118** starred repositories across **12** categories — last updated on **June 05, 2026 at 06:13 UTC**
 
 ---
 
@@ -13,7 +13,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Backend, APIs & Databases](#backend-apis--databases) (4)
 - [Data Science & Analytics](#data-science--analytics) (2)
 - [Developer Tools](#developer-tools) (8)
-- [Frontend & UI](#frontend--ui) (23)
+- [Frontend & UI](#frontend--ui) (24)
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (29)
 - [Mobile & Desktop Development](#mobile--desktop-development) (6)
@@ -50,6 +50,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Frontend & UI
 
+- [TanStack/router](https://github.com/TanStack/router) — 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) — Collection of the most essential transitions for web apps including product motion skill
 - [figitdesign/web-to-figma](https://github.com/figitdesign/web-to-figma) — Convert HTML to editable Figma layers. No plugin needed, just paste.
 - [nrwl/nx-examples](https://github.com/nrwl/nx-examples) — Example repo for Nx workspace

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **118** starred repositories across **12** categories — last updated on **June 09, 2026 at 06:01 UTC**
+> **119** starred repositories across **12** categories — last updated on **June 10, 2026 at 06:14 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (24)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (29)
+- [Machine Learning & AI](#machine-learning--ai) (30)
 - [Mobile & Desktop Development](#mobile--desktop-development) (6)
 - [Other Projects](#other-projects) (11)
 - [SEO & Marketing](#seo--marketing) (1)
@@ -84,6 +84,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) — Open-source skill and harness for generating production ready Lottie animations with codex/claude code
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) — The headless browser for AI agents and web scraping
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) — Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.

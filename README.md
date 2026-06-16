@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **119** starred repositories across **12** categories — last updated on **June 15, 2026 at 07:09 UTC**
+> **119** starred repositories across **12** categories — last updated on **June 16, 2026 at 07:14 UTC**
 
 ---
 
@@ -110,7 +110,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) — No description provided.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) — A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-- [continuedev/continue](https://github.com/continuedev/continue) — ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) — open-source coding agent
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) — Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
 - [dabit3/gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) — reference architecture for building a travel application with GPT3

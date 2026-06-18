@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **119** starred repositories across **12** categories — last updated on **June 17, 2026 at 06:59 UTC**
+> **119** starred repositories across **12** categories — last updated on **June 18, 2026 at 06:44 UTC**
 
 ---
 
@@ -144,7 +144,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Security & Privacy
 
-- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) — Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
+- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) — Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded pump.fun 2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump 
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) — Find, verify, and analyze leaked credentials
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks

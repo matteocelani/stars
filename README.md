@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **121** starred repositories across **12** categories — last updated on **June 30, 2026 at 06:02 UTC**
+> **121** starred repositories across **12** categories — last updated on **July 01, 2026 at 06:17 UTC**
 
 ---
 
@@ -51,7 +51,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 ## Frontend & UI
 
 - [TanStack/router](https://github.com/TanStack/router) — 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
-- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) — Collection of the most essential transitions for web apps including product motion skill
+- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) — Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 - [figitdesign/web-to-figma](https://github.com/figitdesign/web-to-figma) — Convert HTML to editable Figma layers. No plugin needed, just paste.
 - [nrwl/nx-examples](https://github.com/nrwl/nx-examples) — Example repo for Nx workspace
 - [open-circle/formisch](https://github.com/open-circle/formisch) — The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **121** starred repositories across **12** categories — last updated on **July 21, 2026 at 05:11 UTC**
+> **121** starred repositories across **12** categories — last updated on **July 22, 2026 at 04:59 UTC**
 
 ---
 
@@ -108,7 +108,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — A framework for few-shot evaluation of language models.
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) — A free + OSS logo generator powered by Flux on Together AI
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) — No description provided.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) — A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [continuedev/continue](https://github.com/continuedev/continue) — open-source coding agent

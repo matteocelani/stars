@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **122** starred repositories across **12** categories — last updated on **July 31, 2026 at 05:27 UTC**
+> **122** starred repositories across **12** categories — last updated on **August 01, 2026 at 05:19 UTC**
 
 ---
 
@@ -87,7 +87,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Emeierkeio/ParliamentRAG](https://github.com/Emeierkeio/ParliamentRAG) — Authority-aware, multi-view Graph-RAG over Italian parliamentary proceedings (ISWC 2026 In-Use). Neo4j knowledge graph with 170k+ speech chunks and 6.3M individual votes, balanced majority/opposition generation, verbatim citation verification. Live at www.parliamentrag.it
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) — Generate production-ready Lottie animations with Claude Code or Codex
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) — The headless browser for AI agents and web scraping
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) — Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) — Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI

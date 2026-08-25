@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **122** starred repositories across **12** categories — last updated on **August 24, 2026 at 02:55 UTC**
+> **123** starred repositories across **12** categories — last updated on **August 25, 2026 at 02:50 UTC**
 
 ---
 
@@ -16,7 +16,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Frontend & UI](#frontend--ui) (24)
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (32)
-- [Mobile & Desktop Development](#mobile--desktop-development) (7)
+- [Mobile & Desktop Development](#mobile--desktop-development) (8)
 - [Other Projects](#other-projects) (11)
 - [SEO & Marketing](#seo--marketing) (1)
 - [Security & Privacy](#security--privacy) (6)
@@ -119,6 +119,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
+- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) — Free and open-source macOS menu bar toolkit.
 - [matteocelani/quock](https://github.com/matteocelani/quock) — Native iOS & Android client for Ollama Cloud — streaming chat, image & file attachments, and web search
 - [Dimillian/PokeSwift](https://github.com/Dimillian/PokeSwift) — A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI
 - [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 

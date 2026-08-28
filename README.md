@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **124** starred repositories across **12** categories — last updated on **August 27, 2026 at 12:09 UTC**
+> **129** starred repositories across **12** categories — last updated on **August 28, 2026 at 13:33 UTC**
 
 ---
 
@@ -15,11 +15,11 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (24)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (33)
-- [Mobile & Desktop Development](#mobile--desktop-development) (8)
-- [Other Projects](#other-projects) (11)
+- [Machine Learning & AI](#machine-learning--ai) (34)
+- [Mobile & Desktop Development](#mobile--desktop-development) (10)
+- [Other Projects](#other-projects) (12)
 - [SEO & Marketing](#seo--marketing) (1)
-- [Security & Privacy](#security--privacy) (6)
+- [Security & Privacy](#security--privacy) (7)
 - [Self-Hosting & Home Server](#self-hosting--home-server) (5)
 - [Web3, Blockchain & Crypto](#web3-blockchain--crypto) (18)
 
@@ -84,6 +84,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) — No description provided.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Emeierkeio/ParliamentRAG](https://github.com/Emeierkeio/ParliamentRAG) — Authority-aware, multi-view Graph-RAG over Italian parliamentary proceedings (ISWC 2026 In-Use). Neo4j knowledge graph with 170k+ speech chunks and 6.3M individual votes, balanced majority/opposition generation, verbatim citation verification. Live at www.parliamentrag.it
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
@@ -120,6 +121,8 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
+- [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) — end to end app store screenshot creation using AI
+- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) — A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) — Free and open-source macOS menu bar toolkit.
 - [matteocelani/quock](https://github.com/matteocelani/quock) — Native iOS & Android client for Ollama Cloud — streaming chat, image & file attachments, and web search
 - [Dimillian/PokeSwift](https://github.com/Dimillian/PokeSwift) — A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI
@@ -131,6 +134,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Other Projects
 
+- [cursorcommunityled/credit-checker](https://github.com/cursorcommunityled/credit-checker) — No description provided. (TypeScript)
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) — Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (Go)
 - [strongca22-cpu/gabagool](https://github.com/strongca22-cpu/gabagool) — gabagool bot (Python)
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) — Auto generated skeleton loading framework (TypeScript)
@@ -149,6 +153,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Security & Privacy
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) — Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump 
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) — Find, verify, and analyze leaked credentials

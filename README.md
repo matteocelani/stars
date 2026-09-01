@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **129** starred repositories across **12** categories — last updated on **August 31, 2026 at 07:54 UTC**
+> **130** starred repositories across **12** categories — last updated on **September 01, 2026 at 06:59 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (24)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (34)
+- [Machine Learning & AI](#machine-learning--ai) (35)
 - [Mobile & Desktop Development](#mobile--desktop-development) (10)
 - [Other Projects](#other-projects) (12)
 - [SEO & Marketing](#seo--marketing) (1)
@@ -84,6 +84,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) — Specification and documentation for Agent Skills
 - [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) — No description provided.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Emeierkeio/ParliamentRAG](https://github.com/Emeierkeio/ParliamentRAG) — Authority-aware, multi-view Graph-RAG over Italian parliamentary proceedings (ISWC 2026 In-Use). Neo4j knowledge graph with 170k+ speech chunks and 6.3M individual votes, balanced majority/opposition generation, verbatim citation verification. Live at www.parliamentrag.it

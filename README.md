@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **130** starred repositories across **12** categories — last updated on **September 02, 2026 at 06:38 UTC**
+> **131** starred repositories across **12** categories — last updated on **September 03, 2026 at 06:40 UTC**
 
 ---
 
@@ -16,7 +16,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Frontend & UI](#frontend--ui) (24)
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (35)
-- [Mobile & Desktop Development](#mobile--desktop-development) (10)
+- [Mobile & Desktop Development](#mobile--desktop-development) (11)
 - [Other Projects](#other-projects) (12)
 - [SEO & Marketing](#seo--marketing) (1)
 - [Security & Privacy](#security--privacy) (7)
@@ -122,6 +122,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
+- [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) — ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) — end to end app store screenshot creation using AI
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) — A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) — Free and open-source macOS menu bar toolkit.
@@ -168,7 +169,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [ngutman/openclaw-ha-addon](https://github.com/ngutman/openclaw-ha-addon) — No description provided.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 
 ## Web3, Blockchain & Crypto
 

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **132** starred repositories across **12** categories — last updated on **September 08, 2026 at 06:44 UTC**
+> **133** starred repositories across **12** categories — last updated on **September 09, 2026 at 06:53 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (24)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (36)
+- [Machine Learning & AI](#machine-learning--ai) (37)
 - [Mobile & Desktop Development](#mobile--desktop-development) (11)
 - [Other Projects](#other-projects) (12)
 - [SEO & Marketing](#seo--marketing) (1)
@@ -84,6 +84,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) — Fully automatic censorship removal for language models
 - [antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) — Specification and documentation for Agent Skills
 - [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) — No description provided.

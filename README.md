@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **133** starred repositories across **12** categories — last updated on **September 10, 2026 at 06:50 UTC**
+> **135** starred repositories across **12** categories — last updated on **September 11, 2026 at 06:49 UTC**
 
 ---
 
@@ -13,10 +13,10 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Backend, APIs & Databases](#backend-apis--databases) (4)
 - [Data Science & Analytics](#data-science--analytics) (2)
 - [Developer Tools](#developer-tools) (8)
-- [Frontend & UI](#frontend--ui) (24)
+- [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (37)
-- [Mobile & Desktop Development](#mobile--desktop-development) (11)
+- [Mobile & Desktop Development](#mobile--desktop-development) (12)
 - [Other Projects](#other-projects) (12)
 - [SEO & Marketing](#seo--marketing) (1)
 - [Security & Privacy](#security--privacy) (7)
@@ -50,6 +50,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Frontend & UI
 
+- [letstri/motion-panels](https://github.com/letstri/motion-panels) — No description provided.
 - [TanStack/router](https://github.com/TanStack/router) — 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) — Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 - [figitdesign/web-to-figma](https://github.com/figitdesign/web-to-figma) — Convert HTML to editable Figma layers. No plugin needed, just paste.
@@ -124,6 +125,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
+- [software-mansion/argent](https://github.com/software-mansion/argent) — An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) — ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) — end to end app store screenshot creation using AI
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) — A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.

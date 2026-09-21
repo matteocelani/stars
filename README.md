@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **136** starred repositories across **12** categories — last updated on **September 20, 2026 at 07:15 UTC**
+> **137** starred repositories across **12** categories — last updated on **September 21, 2026 at 07:25 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (38)
+- [Machine Learning & AI](#machine-learning--ai) (39)
 - [Mobile & Desktop Development](#mobile--desktop-development) (12)
 - [Other Projects](#other-projects) (12)
 - [SEO & Marketing](#seo--marketing) (1)
@@ -85,6 +85,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) — Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) — Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) — Fully automatic censorship removal for language models
 - [antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm

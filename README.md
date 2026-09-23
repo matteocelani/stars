@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **137** starred repositories across **12** categories — last updated on **September 22, 2026 at 07:03 UTC**
+> **138** starred repositories across **12** categories — last updated on **September 23, 2026 at 06:59 UTC**
 
 ---
 
@@ -21,7 +21,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [SEO & Marketing](#seo--marketing) (1)
 - [Security & Privacy](#security--privacy) (7)
 - [Self-Hosting & Home Server](#self-hosting--home-server) (5)
-- [Web3, Blockchain & Crypto](#web3-blockchain--crypto) (18)
+- [Web3, Blockchain & Crypto](#web3-blockchain--crypto) (19)
 
 ---
 
@@ -179,6 +179,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Web3, Blockchain & Crypto
 
+- [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) — The open, local take on Jev: typed decisions from an LLM, without generating a single token
 - [family/connectkit](https://github.com/family/connectkit) — Connecting a wallet, made simple.
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) — Slither Detectors by Pessimistic.io
 - [joshstevens19/ethereum-multicall](https://github.com/joshstevens19/ethereum-multicall) — Ability to call many ethereum constant function calls in 1 JSONRPC request

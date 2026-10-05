@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **139** starred repositories across **12** categories — last updated on **October 04, 2026 at 07:35 UTC**
+> **139** starred repositories across **12** categories — last updated on **October 05, 2026 at 07:57 UTC**
 
 ---
 
@@ -117,7 +117,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) — MLX: An array framework for Apple silicon
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — A framework for few-shot evaluation of language models.
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) — A free + OSS logo generator powered by Flux on Together AI
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions, including DataForSEO, Firecrawl, Ahrefs and Matomo.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) — No description provided.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) — A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.

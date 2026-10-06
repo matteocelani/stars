@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **139** starred repositories across **12** categories — last updated on **October 05, 2026 at 07:57 UTC**
+> **139** starred repositories across **12** categories — last updated on **October 06, 2026 at 08:19 UTC**
 
 ---
 
@@ -93,7 +93,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) — Specification and documentation for Agent Skills
 - [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) — No description provided.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [Emeierkeio/ParliamentRAG](https://github.com/Emeierkeio/ParliamentRAG) — Authority-aware, multi-view Graph-RAG over Italian parliamentary proceedings (ISWC 2026 In-Use). Neo4j knowledge graph with 170k+ speech chunks and 6.3M individual votes, balanced majority/opposition generation, verbatim citation verification. Live at www.parliamentrag.it
+- [Emeierkeio/parliamentrag-iswc](https://github.com/Emeierkeio/parliamentrag-iswc) — ParliamentRAG, il sistema presentato a ISWC 2026: authority-aware multi-view RAG sui resoconti della Camera (codice dei paper, tag iswc2026-eval e iswc2026-demo)
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) — Generate production-ready Lottie animations with Claude Code or Codex
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool

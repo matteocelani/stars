@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **139** starred repositories across **12** categories — last updated on **October 07, 2026 at 07:56 UTC**
+> **139** starred repositories across **12** categories — last updated on **October 08, 2026 at 08:10 UTC**
 
 ---
 
@@ -15,10 +15,10 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (40)
+- [Machine Learning & AI](#machine-learning--ai) (39)
 - [Mobile & Desktop Development](#mobile--desktop-development) (12)
 - [Other Projects](#other-projects) (12)
-- [SEO & Marketing](#seo--marketing) (1)
+- [SEO & Marketing](#seo--marketing) (2)
 - [Security & Privacy](#security--privacy) (7)
 - [Self-Hosting & Home Server](#self-hosting--home-server) (5)
 - [Web3, Blockchain & Crypto](#web3-blockchain--crypto) (19)
@@ -104,7 +104,6 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) — An open source template for building cloud agents.
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) — Vane is an AI-powered answering engine.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — Clone any website with one command using AI coding agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -158,6 +157,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## SEO & Marketing
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — 📨 The ultimate agentic social media scheduling tool 🤖
 
 ## Security & Privacy

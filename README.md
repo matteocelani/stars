@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **139** starred repositories across **12** categories — last updated on **October 09, 2026 at 08:10 UTC**
+> **139** starred repositories across **12** categories — last updated on **October 10, 2026 at 07:54 UTC**
 
 ---
 
@@ -61,7 +61,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [matteocelani/f1-telemetry](https://github.com/matteocelani/f1-telemetry) — Open Source live F1 telemetry analytics. A Next.js/Node.js monorepo decoding the official SignalR feed into real-time WebSockets.
 - [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) — A large collection of high-quality React components that you can copy and paste into any project.
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) — A real-time F1 dashboard
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) — 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) — Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [vercel/swr](https://github.com/vercel/swr) — React Hooks for Data Fetching

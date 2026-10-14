@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **139** starred repositories across **12** categories — last updated on **October 13, 2026 at 08:42 UTC**
+> **140** starred repositories across **12** categories — last updated on **October 14, 2026 at 06:54 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (39)
+- [Machine Learning & AI](#machine-learning--ai) (40)
 - [Mobile & Desktop Development](#mobile--desktop-development) (12)
 - [Other Projects](#other-projects) (12)
 - [SEO & Marketing](#seo--marketing) (2)
@@ -52,7 +52,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 - [letstri/motion-panels](https://github.com/letstri/motion-panels) — No description provided.
 - [TanStack/router](https://github.com/TanStack/router) — 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
-- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) — UI montion AI agent, a library of 43+ crafted transitions, a skill that fits your workflow.
+- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) — UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.
 - [figitdesign/web-to-figma](https://github.com/figitdesign/web-to-figma) — Convert HTML to editable Figma layers. No plugin needed, just paste.
 - [nrwl/nx-examples](https://github.com/nrwl/nx-examples) — Example repo for Nx workspace
 - [open-circle/formisch](https://github.com/open-circle/formisch) — The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.
@@ -85,6 +85,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) — Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that develop the web: https://github.com/webmachinelearning/webmcp
 - [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) — A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) — Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) — Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development

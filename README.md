@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **140** starred repositories across **12** categories — last updated on **October 26, 2026 at 07:13 UTC**
+> **141** starred repositories across **12** categories — last updated on **October 27, 2026 at 07:03 UTC**
 
 ---
 
@@ -17,7 +17,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (40)
 - [Mobile & Desktop Development](#mobile--desktop-development) (12)
-- [Other Projects](#other-projects) (12)
+- [Other Projects](#other-projects) (13)
 - [SEO & Marketing](#seo--marketing) (2)
 - [Security & Privacy](#security--privacy) (7)
 - [Self-Hosting & Home Server](#self-hosting--home-server) (5)
@@ -143,6 +143,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Other Projects
 
+- [cyberpandino/cluster](https://github.com/cyberpandino/cluster) — Cyberpandino cluster (TypeScript)
 - [cursorcommunityled/credit-checker](https://github.com/cursorcommunityled/credit-checker) — No description provided. (TypeScript)
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) — Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (Go)
 - [strongca22-cpu/gabagool](https://github.com/strongca22-cpu/gabagool) — gabagool bot (Python)

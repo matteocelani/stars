@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **141** starred repositories across **12** categories — last updated on **October 27, 2026 at 07:03 UTC**
+> **141** starred repositories across **12** categories — last updated on **October 28, 2026 at 07:44 UTC**
 
 ---
 
@@ -101,7 +101,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) — The headless browser for AI agents and web scraping
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) — Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) — Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
-- [xming521/WeClone](https://github.com/xming521/WeClone) — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  
+- [xming521/WeClone](https://github.com/xming521/WeClone) — Build a portrait of your life. Assistants that know you. Clones that talk like you.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) — An open source template for building cloud agents.

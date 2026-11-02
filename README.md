@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **143** starred repositories across **12** categories — last updated on **November 01, 2026 at 08:25 UTC**
+> **143** starred repositories across **12** categories — last updated on **November 02, 2026 at 08:38 UTC**
 
 ---
 
@@ -62,7 +62,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) — A large collection of high-quality React components that you can copy and paste into any project.
 - [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) — A real-time F1 dashboard
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) — 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) — 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) — Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [vercel/swr](https://github.com/vercel/swr) — React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -91,7 +91,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) — A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) — Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) — Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) — Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) — Specification and documentation for Agent Skills
 - [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) — No description provided.

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **143** starred repositories across **12** categories — last updated on **November 02, 2026 at 08:38 UTC**
+> **144** starred repositories across **12** categories — last updated on **November 03, 2026 at 08:50 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (42)
+- [Machine Learning & AI](#machine-learning--ai) (43)
 - [Mobile & Desktop Development](#mobile--desktop-development) (12)
 - [Other Projects](#other-projects) (13)
 - [SEO & Marketing](#seo--marketing) (2)
@@ -85,6 +85,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [SaarthurR/atticus-mac](https://github.com/SaarthurR/atticus-mac) — Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.
 - [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Nutlope/bygga](https://github.com/Nutlope/bygga) — IKEA assembly, step by step: animated, manual-style 3D guides. Scan any paper manual with Together AI.
 - [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) — Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that develop the web: https://github.com/webmachinelearning/webmcp
@@ -104,7 +105,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) — Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) — Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
 - [xming521/WeClone](https://github.com/xming521/WeClone) — Build a portrait of your life. Assistants that know you. Clones that talk like you.
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) — An open source template for building cloud agents.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) — Vane is an AI-powered answering engine.

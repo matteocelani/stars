@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **144** starred repositories across **12** categories — last updated on **November 03, 2026 at 08:50 UTC**
+> **144** starred repositories across **12** categories — last updated on **November 04, 2026 at 08:18 UTC**
 
 ---
 
@@ -181,7 +181,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [ngutman/openclaw-ha-addon](https://github.com/ngutman/openclaw-ha-addon) — No description provided.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 
 ## Web3, Blockchain & Crypto
 

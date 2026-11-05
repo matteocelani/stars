@@ -4,18 +4,18 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **144** starred repositories across **12** categories — last updated on **November 04, 2026 at 08:18 UTC**
+> **143** starred repositories across **12** categories — last updated on **November 05, 2026 at 08:44 UTC**
 
 ---
 
 ## Table of Contents
 
-- [Backend, APIs & Databases](#backend-apis--databases) (4)
-- [Data Science & Analytics](#data-science--analytics) (2)
+- [Backend, APIs & Databases](#backend-apis--databases) (3)
+- [Data Science & Analytics](#data-science--analytics) (3)
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (43)
+- [Machine Learning & AI](#machine-learning--ai) (42)
 - [Mobile & Desktop Development](#mobile--desktop-development) (12)
 - [Other Projects](#other-projects) (13)
 - [SEO & Marketing](#seo--marketing) (2)
@@ -29,12 +29,12 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) — Free Weather Forecast API for non-commercial use
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) — No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
-- [br-g/openf1](https://github.com/br-g/openf1) — OpenF1 API - Real-time and historical Formula 1 data
 - [novuhq/novu](https://github.com/novuhq/novu) — The open-source communication infrastructure for agents and products
 
 ## Data Science & Analytics
 
 - [loisekk/f1-race-replay](https://github.com/loisekk/f1-race-replay) — An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
+- [br-g/openf1](https://github.com/br-g/openf1) — OpenF1 API - Real-time and historical Formula 1 data
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) — FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 
 ## Developer Tools
@@ -97,7 +97,6 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) — Specification and documentation for Agent Skills
 - [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) — No description provided.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [Emeierkeio/parliamentrag-iswc](https://github.com/Emeierkeio/parliamentrag-iswc) — ParliamentRAG, il sistema presentato a ISWC 2026: authority-aware multi-view RAG sui resoconti della Camera (codice dei paper, tag iswc2026-eval e iswc2026-demo)
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) — Generate production-ready Lottie animations with Claude Code or Codex
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool

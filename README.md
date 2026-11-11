@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **143** starred repositories across **12** categories — last updated on **November 10, 2026 at 08:58 UTC**
+> **143** starred repositories across **12** categories — last updated on **November 11, 2026 at 08:38 UTC**
 
 ---
 
@@ -15,8 +15,8 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (42)
-- [Mobile & Desktop Development](#mobile--desktop-development) (12)
+- [Machine Learning & AI](#machine-learning--ai) (43)
+- [Mobile & Desktop Development](#mobile--desktop-development) (11)
 - [Other Projects](#other-projects) (13)
 - [SEO & Marketing](#seo--marketing) (2)
 - [Security & Privacy](#security--privacy) (7)
@@ -97,6 +97,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) — Specification and documentation for Agent Skills
 - [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots) — No description provided.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [matteocelani/quock](https://github.com/matteocelani/quock) — Native iOS & Android client for Ollama Cloud — streaming chat, image & file attachments, and web search
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) — Generate production-ready Lottie animations with Claude Code or Codex
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
@@ -135,7 +136,6 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) — end to end app store screenshot creation using AI
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) — A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) — Free and open-source macOS menu bar toolkit.
-- [matteocelani/quock](https://github.com/matteocelani/quock) — Native iOS & Android client for Ollama Cloud — streaming chat, image & file attachments, and web search
 - [Dimillian/PokeSwift](https://github.com/Dimillian/PokeSwift) — A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI
 - [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.

@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **143** starred repositories across **12** categories — last updated on **November 13, 2026 at 08:54 UTC**
+> **143** starred repositories across **12** categories — last updated on **November 14, 2026 at 08:18 UTC**
 
 ---
 
@@ -89,7 +89,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Nutlope/bygga](https://github.com/Nutlope/bygga) — IKEA assembly, step by step: animated, manual-style 3D guides. Scan any paper manual with Together AI.
 - [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) — Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that develop the web: https://github.com/webmachinelearning/webmcp
-- [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) — A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
+- [CopilotKit/openfuse](https://github.com/CopilotKit/openfuse) — A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) — Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) — Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more

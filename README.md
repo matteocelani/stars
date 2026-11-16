@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **143** starred repositories across **12** categories — last updated on **November 15, 2026 at 08:38 UTC**
+> **144** starred repositories across **12** categories — last updated on **November 16, 2026 at 08:46 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (43)
+- [Machine Learning & AI](#machine-learning--ai) (44)
 - [Mobile & Desktop Development](#mobile--desktop-development) (11)
 - [Other Projects](#other-projects) (13)
 - [SEO & Marketing](#seo--marketing) (2)
@@ -85,6 +85,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [hasitpbhatt/awesome-ai-apps](https://github.com/hasitpbhatt/awesome-ai-apps) — Curated list of the best AI apps and tools, organized into 10 categories. 127 verified, hand-picked picks, updated regularly.
 - [SaarthurR/atticus-mac](https://github.com/SaarthurR/atticus-mac) — Fast, free voice assistant for your Mac. No API key. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.
 - [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Nutlope/bygga](https://github.com/Nutlope/bygga) — IKEA assembly, step by step: animated, manual-style 3D guides. Scan any paper manual with Together AI.

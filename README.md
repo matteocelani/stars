@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **144** starred repositories across **12** categories — last updated on **November 16, 2026 at 08:46 UTC**
+> **144** starred repositories across **12** categories — last updated on **November 17, 2026 at 09:54 UTC**
 
 ---
 
@@ -167,7 +167,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Security & Privacy
 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) — God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) — Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump 
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) — Find, verify, and analyze leaked credentials

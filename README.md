@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **144** starred repositories across **12** categories — last updated on **November 17, 2026 at 09:54 UTC**
+> **144** starred repositories across **12** categories — last updated on **November 18, 2026 at 09:29 UTC**
 
 ---
 
@@ -107,7 +107,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) — Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
 - [xming521/WeClone](https://github.com/xming521/WeClone) — Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) — An open source template for building cloud agents.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) — Vane is an AI-powered answering engine.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — Clone any website with one command using AI coding agents

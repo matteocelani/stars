@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **144** starred repositories across **12** categories — last updated on **November 18, 2026 at 09:29 UTC**
+> **145** starred repositories across **12** categories — last updated on **November 19, 2026 at 09:39 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (44)
+- [Machine Learning & AI](#machine-learning--ai) (45)
 - [Mobile & Desktop Development](#mobile--desktop-development) (11)
 - [Other Projects](#other-projects) (13)
 - [SEO & Marketing](#seo--marketing) (2)
@@ -93,6 +93,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [CopilotKit/openfuse](https://github.com/CopilotKit/openfuse) — A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) — Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) — Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
+- [software-mansion/argent](https://github.com/software-mansion/argent) — MCP server for AI agents to control, debug and profile iOS simulators, Android emulators, MacOS apps and TVs. Made by Software Mansion.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) — Specification and documentation for Agent Skills
@@ -132,7 +133,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
-- [software-mansion/argent](https://github.com/software-mansion/argent) — An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) — THOCK your mac keyboard >> new release soon!
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) — ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) — end to end app store screenshot creation using AI
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) — A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.

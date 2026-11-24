@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **145** starred repositories across **12** categories — last updated on **November 23, 2026 at 09:59 UTC**
+> **146** starred repositories across **12** categories — last updated on **November 24, 2026 at 11:49 UTC**
 
 ---
 
@@ -17,7 +17,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Guides, Books & Resources](#guides-books--resources) (4)
 - [Machine Learning & AI](#machine-learning--ai) (45)
 - [Mobile & Desktop Development](#mobile--desktop-development) (11)
-- [Other Projects](#other-projects) (13)
+- [Other Projects](#other-projects) (14)
 - [SEO & Marketing](#seo--marketing) (2)
 - [Security & Privacy](#security--privacy) (7)
 - [Self-Hosting & Home Server](#self-hosting--home-server) (5)
@@ -85,7 +85,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
-- [hasitpbhatt/awesome-ai-apps](https://github.com/hasitpbhatt/awesome-ai-apps) — Curated list of the best AI apps and tools, organized into 10 categories. 127 verified, hand-picked picks, updated regularly.
+- [hasitpbhatt/awesome-ai-apps](https://github.com/hasitpbhatt/awesome-ai-apps) — Curated list of the best AI apps and tools, organized into categories. Verified, hand-picked picks, updated regularly.
 - [SaarthurR/atticus-mac](https://github.com/SaarthurR/atticus-mac) — Fast, free voice assistant for your Mac. No API key. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.
 - [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Nutlope/bygga](https://github.com/Nutlope/bygga) — IKEA assembly, step by step: animated, manual-style 3D guides. Scan any paper manual with Together AI.
@@ -147,6 +147,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Other Projects
 
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) — Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. (Python)
 - [cyberpandino/cluster](https://github.com/cyberpandino/cluster) — Cyberpandino cluster (TypeScript)
 - [cursorcommunityled/credit-checker](https://github.com/cursorcommunityled/credit-checker) — No description provided. (TypeScript)
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) — Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (Go)

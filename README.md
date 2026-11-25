@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **146** starred repositories across **12** categories — last updated on **November 24, 2026 at 11:49 UTC**
+> **147** starred repositories across **12** categories — last updated on **November 25, 2026 at 10:42 UTC**
 
 ---
 
@@ -15,7 +15,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Developer Tools](#developer-tools) (8)
 - [Frontend & UI](#frontend--ui) (25)
 - [Guides, Books & Resources](#guides-books--resources) (4)
-- [Machine Learning & AI](#machine-learning--ai) (45)
+- [Machine Learning & AI](#machine-learning--ai) (46)
 - [Mobile & Desktop Development](#mobile--desktop-development) (11)
 - [Other Projects](#other-projects) (14)
 - [SEO & Marketing](#seo--marketing) (2)
@@ -85,6 +85,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Machine Learning & AI
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — The best way to control Claude Code, Codex and more from any computer or phone
 - [hasitpbhatt/awesome-ai-apps](https://github.com/hasitpbhatt/awesome-ai-apps) — Curated list of the best AI apps and tools, organized into categories. Verified, hand-picked picks, updated regularly.
 - [SaarthurR/atticus-mac](https://github.com/SaarthurR/atticus-mac) — Fast, free voice assistant for your Mac. No API key. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.
 - [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -133,7 +134,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Mobile & Desktop Development
 
-- [kamillobinski/thock](https://github.com/kamillobinski/thock) — THOCK your mac keyboard >> new release soon!
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) — THOCK your mac keyboard >> new release on 29.11
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) — ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) — end to end app store screenshot creation using AI
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) — A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.

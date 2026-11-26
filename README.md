@@ -4,7 +4,7 @@ An automated, categorized list of my GitHub stars.
 
 This repository uses a GitHub Action to run a Python script daily. The script fetches all my starred repositories and categorizes them by topic, automatically updating this README.
 
-> **147** starred repositories across **12** categories — last updated on **November 25, 2026 at 10:42 UTC**
+> **148** starred repositories across **12** categories — last updated on **November 26, 2026 at 10:13 UTC**
 
 ---
 
@@ -20,7 +20,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 - [Other Projects](#other-projects) (14)
 - [SEO & Marketing](#seo--marketing) (2)
 - [Security & Privacy](#security--privacy) (7)
-- [Self-Hosting & Home Server](#self-hosting--home-server) (5)
+- [Self-Hosting & Home Server](#self-hosting--home-server) (6)
 - [Web3, Blockchain & Crypto](#web3-blockchain--crypto) (19)
 
 ---
@@ -180,6 +180,7 @@ This repository uses a GitHub Action to run a Python script daily. The script fe
 
 ## Self-Hosting & Home Server
 
+- [matteocelani/xiaomi-vacuum](https://github.com/matteocelani/xiaomi-vacuum) — Home Assistant integration for Xiaomi and Dreame robot vacuums
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) — Xiaomi LYWSD03MMC Zigbee Firmware
 - [ngutman/openclaw-ha-addon](https://github.com/ngutman/openclaw-ha-addon) — No description provided.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world
